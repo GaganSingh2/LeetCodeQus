@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0027-remove-element) |
+| [0035-search-insert-position](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0035-search-insert-position) |
 | [0739-daily-temperatures](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0739-daily-temperatures) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/GaganSingh2/LeetCodeQus/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/GaganSingh2/LeetCodeQus/tree/master/2551-apply-operations-to-an-array) |
@@ -76,4 +77,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2610-closest-prime-numbers-in-range](https://github.com/GaganSingh2/LeetCodeQus/tree/master/2610-closest-prime-numbers-in-range) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
