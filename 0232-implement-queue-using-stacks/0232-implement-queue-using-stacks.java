@@ -6,31 +6,61 @@ class MyQueue {
         second = new Stack<>();
     }
     
-    // 1st way
-    public void push(int x) { //O(n)
-        while(!first.isEmpty()){
-            second.push(first.pop());
-        }
+    // 1st Approach
+    // public void push(int x) { //O(n)
+    //     while(!first.isEmpty()){
+    //         second.push(first.pop());
+    //     }
+    //     first.push(x);
+    //     while(!second.isEmpty()){
+    //         first.push(second.pop());
+    //     }
+    // }
+    
+    // public int pop() { //O(1)
+    //     if(empty()){
+    //         return -1;
+    //     }
+    //     return first.pop();
+    // }
+    
+    // public int peek() { //O(1)
+    //     if(empty()){
+    //         return -1;
+    //     }
+    //     return first.peek();
+    // }
+
+    // 2nd Approach
+    public void push(int x){
         first.push(x);
-        while(!second.isEmpty()){
-            first.push(second.pop());
-        }
     }
-    
-    public int pop() { //O(1)
-        if(empty()){
+
+    public int pop(){
+        if(first.isEmpty() && second.isEmpty()){
             return -1;
         }
-        return first.pop();
+        // if stack2 is empty but stack1 have some data
+        if(second.isEmpty()){
+            while(!first.isEmpty()){
+                second.push(first.pop());
+            }
+        }
+        return second.pop();
     }
-    
-    public int peek() { //O(1)
-        if(empty()){
+
+    public int peek(){
+       if(first.isEmpty() && second.isEmpty()){
             return -1;
         }
-        return first.peek();
+        // if stack2 is empty but stack1 have some data
+        if(second.isEmpty()){
+            while(!first.isEmpty()){
+                second.push(first.pop());
+            }
+        }
+        return second.peek();
     }
-    
     public boolean empty() {
         return first.isEmpty() && second.isEmpty();
     }
