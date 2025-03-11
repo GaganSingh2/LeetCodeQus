@@ -6,7 +6,8 @@ class MyQueue {
         second = new Stack<>();
     }
     
-    public void push(int x) {
+    // 1st way
+    public void push(int x) { //O(n)
         while(!first.isEmpty()){
             second.push(first.pop());
         }
@@ -16,14 +17,14 @@ class MyQueue {
         }
     }
     
-    public int pop() {
+    public int pop() { //O(1)
         if(empty()){
             return -1;
         }
         return first.pop();
     }
     
-    public int peek() {
+    public int peek() { //O(1)
         if(empty()){
             return -1;
         }
@@ -31,7 +32,7 @@ class MyQueue {
     }
     
     public boolean empty() {
-        return first.isEmpty();
+        return first.isEmpty() && second.isEmpty();
     }
 }
 
