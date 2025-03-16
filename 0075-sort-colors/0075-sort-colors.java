@@ -15,7 +15,8 @@ class Solution {
             }
         }
         int temp = 0;
-        for(int i=0;temp<nums.length && i<nums.length; i++){
+        // for(int i=0;temp<nums.length && i<nums.length; i++){
+        if(temp<nums.length){
             while(zr>=1){
                 nums[temp] = 0;
                 temp++;
