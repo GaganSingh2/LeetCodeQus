@@ -3,7 +3,7 @@ class Solution {
         int count = 1;
         int len = nums.length;
         int res = 0;
-        Arrays.sort(nums);
+        // Arrays.sort(nums);
         for(int i=0; i<=nums.length-1; i++){
             for(int j=i+1; j<nums.length; j++){
                 if(nums[i]==nums[j]){
