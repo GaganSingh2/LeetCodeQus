@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0050-powx-n) |
 | [1013-fibonacci-number](https://github.com/GaganSingh2/LeetCodeQus/tree/master/1013-fibonacci-number) |
 | [1230-maximum-of-absolute-value-expression](https://github.com/GaganSingh2/LeetCodeQus/tree/master/1230-maximum-of-absolute-value-expression) |
 | [2610-closest-prime-numbers-in-range](https://github.com/GaganSingh2/LeetCodeQus/tree/master/2610-closest-prime-numbers-in-range) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0050-powx-n) |
 | [1013-fibonacci-number](https://github.com/GaganSingh2/LeetCodeQus/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
