@@ -1,19 +1,19 @@
 class Solution {
     public int maxContainers(int n, int w, int maxWeight) {
-        n = n*n;
-        int track = 0;
-         int res = 0;
-        for(int i=1; i<=n; i++){
-            track = w * i;
+        
+        int weight = 0;
+         int maxNum = 0;
+        for(int i=1; i<=n*n; i++){
+            weight = w * i;
             
-            if(maxWeight>=track){
-                res ++;
+            if(maxWeight>=weight){
+                maxNum++;
                 
             }else{
                 break;
             }
             
         }
-        return res;
+        return maxNum;
     }
 }
