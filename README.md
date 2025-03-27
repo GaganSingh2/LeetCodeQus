@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0141-linked-list-cycle) |
 | [0344-reverse-string](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0345-reverse-vowels-of-a-string) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/GaganSingh2/LeetCodeQus/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/GaganSingh2/LeetCodeQus/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2551-apply-operations-to-an-array](https://github.com/GaganSingh2/LeetCodeQus/tree/master/2551-apply-operations-to-an-array) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0205-isomorphic-strings](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0205-isomorphic-strings) |
 | [0344-reverse-string](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0345-reverse-vowels-of-a-string) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/GaganSingh2/LeetCodeQus/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/GaganSingh2/LeetCodeQus/tree/master/1823-determine-if-string-halves-are-alike) |
 ## Sliding Window
