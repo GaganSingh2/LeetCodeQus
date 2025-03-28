@@ -3,23 +3,23 @@ class Solution {
         int len = s.length()/2;
         int si =0;
         int ei = s.length()-1;
-        int chCount = 0;
-        int laCount = 0;
+        int leftCount = 0;
+        int rightCount = 0;
         while(si<len || ei>len){
-            char ch = s.charAt(si);
-            char la = s.charAt(ei);
-            if(ch=='a' || ch=='e' || ch=='i' ||ch=='o' || ch=='u' ||ch=='A' || ch=='E'
-                || ch=='I' || ch=='O' || ch=='U'){
-                    chCount++;
+            char leftCh = s.charAt(si);
+            char rightCh = s.charAt(ei);
+            if(leftCh=='a' || leftCh=='e' || leftCh=='i' || leftCh=='o' || leftCh=='u' || leftCh=='A' || leftCh=='E'
+                || leftCh=='I' || leftCh=='O' || leftCh=='U'){
+                    leftCount++;
             }
-            if(la=='a' || la=='e' || la=='i' || la =='o' || la=='u' || la=='A' || la=='E'
-                || la=='I' || la=='O' || la=='U'){
-                    laCount++;
+            if(rightCh=='a' || rightCh=='e' || rightCh=='i' || rightCh =='o' || rightCh=='u' || rightCh=='A' || rightCh=='E'
+                || rightCh=='I' || rightCh=='O' || rightCh=='U'){
+                    rightCount++;
             }
             si++;
             ei--;
         }
-        if(chCount == laCount){
+        if(leftCount == rightCount){
             return true;
         }else{
             return false;
