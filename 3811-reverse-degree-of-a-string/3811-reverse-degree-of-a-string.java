@@ -5,7 +5,6 @@ class Solution {
         for(int i=0; i<s.length(); i++){
             char ch = s.charAt(i);
             int idx = 'z'-ch;
-            // System.out.println(idx);
             res += (i+1)*(idx+1);
         }
         return res;
