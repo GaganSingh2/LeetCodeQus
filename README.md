@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0050-powx-n) |
 | [1013-fibonacci-number](https://github.com/GaganSingh2/LeetCodeQus/tree/master/1013-fibonacci-number) |
 | [1230-maximum-of-absolute-value-expression](https://github.com/GaganSingh2/LeetCodeQus/tree/master/1230-maximum-of-absolute-value-expression) |
