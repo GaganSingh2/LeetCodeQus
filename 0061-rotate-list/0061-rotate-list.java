@@ -19,10 +19,12 @@ class Solution {
             temp = temp.next;
             size++;
         }
+       
         k %= size;
+       
         if(k==0) return head; //for no repeate
 
-        temp.next = head;
+        temp.next = head; //for create a circle
         int newstp = size-k;
         ListNode newtemp = head;
         for(int i=1; i<newstp; i++){
