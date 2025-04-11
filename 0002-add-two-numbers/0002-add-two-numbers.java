@@ -13,7 +13,7 @@
     public ListNode addTwoNumbers(ListNode l1, ListNode l2) {
         ListNode temp1 = l1, temp2 = l2;
         int carry = 0;
-        ListNode newNode = new ListNode(-1);
+        ListNode newNode = new ListNode();
         ListNode temp = newNode;
         while(temp1 != null || temp2 != null || carry != 0){
             int total = carry;
@@ -28,8 +28,7 @@
 
             int num = total % 10;
             carry = total / 10;
-            ListNode dummy = new ListNode(num);
-            temp.next = dummy;
+            temp.next = new ListNode(num);
             temp = temp.next;
         }
         return newNode.next;
