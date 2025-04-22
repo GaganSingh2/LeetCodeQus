@@ -1,4 +1,15 @@
 # LeetCodeQus
+A growing collection of LeetCode problems I'm solving to strengthen my data structures and algorithms knowledge, and gear up for coding interviews.
+This repository is synced using LeetHub v2, which auto-uploads solutions directly from LeetCode to GitHub.
+
+📌 Features
+🧠 Curated problems for interview prep
+
+📝 Well-organized solutions with clean code
+
+🚀 Tracked using LeetHub v2 extension
+
+🧪 Mix of easy, medium, and hard challenges.
 A collection of LeetCode questions to ace the coding interview! - Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 
 <!---LeetCode Topics Start-->
