@@ -25,7 +25,7 @@
                 total += temp2.val;
                 temp2 = temp2.next;
             }
-
+            // System.out.println(total);
             int num = total % 10;
             carry = total / 10;
             temp.next = new ListNode(num);
