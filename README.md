@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0205-isomorphic-strings) |
+| [0268-missing-number](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0268-missing-number) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/GaganSingh2/LeetCodeQus/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2308-divide-array-into-equal-pairs](https://github.com/GaganSingh2/LeetCodeQus/tree/master/2308-divide-array-into-equal-pairs) |
 | [3227-find-missing-and-repeated-values](https://github.com/GaganSingh2/LeetCodeQus/tree/master/3227-find-missing-and-repeated-values) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0485-max-consecutive-ones) |
 | [0739-daily-temperatures](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0739-daily-temperatures) |
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0268-missing-number) |
 | [1013-fibonacci-number](https://github.com/GaganSingh2/LeetCodeQus/tree/master/1013-fibonacci-number) |
 | [1230-maximum-of-absolute-value-expression](https://github.com/GaganSingh2/LeetCodeQus/tree/master/1230-maximum-of-absolute-value-expression) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/GaganSingh2/LeetCodeQus/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -189,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0035-search-insert-position) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0268-missing-number](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0268-missing-number) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/GaganSingh2/LeetCodeQus/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2690-house-robber-iv](https://github.com/GaganSingh2/LeetCodeQus/tree/master/2690-house-robber-iv) |
 ## String
@@ -222,9 +226,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0268-missing-number) |
 ## Bit Manipulation
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0268-missing-number) |
 | [2308-divide-array-into-equal-pairs](https://github.com/GaganSingh2/LeetCodeQus/tree/master/2308-divide-array-into-equal-pairs) |
 | [2478-longest-nice-subarray](https://github.com/GaganSingh2/LeetCodeQus/tree/master/2478-longest-nice-subarray) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/GaganSingh2/LeetCodeQus/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
