@@ -3,7 +3,6 @@ class Solution {
         //---------------
         // ArrayList<Integer> pos = new ArrayList<>();
         // ArrayList<Integer> neg = new ArrayList<>();
-
         // for(int i=0; i<nums.length; i++){
         //     if(nums[i]<0){
         //         neg.add(nums[i]);
