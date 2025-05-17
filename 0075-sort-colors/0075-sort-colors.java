@@ -8,18 +8,18 @@ class Solution {
         }
 
         int idx = 0;
-        if(idx<nums.length){
-            while(zeroCnt>=1){  //for Zero's
+        if(idx<=nums.length-1){
+            while(zeroCnt > 0){
                 nums[idx] = 0;
                 idx++;
                 zeroCnt--;
             }
-            while(oneCnt>=1){  //for One's
+            while(oneCnt > 0){
                 nums[idx] = 1;
                 idx++;
                 oneCnt--;
             }
-            while(twoCnt>=1){  //for Two's
+            while(twoCnt > 0){
                 nums[idx] = 2;
                 idx++;
                 twoCnt--;
