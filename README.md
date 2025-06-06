@@ -220,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/GaganSingh2/LeetCodeQus/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/GaganSingh2/LeetCodeQus/tree/master/1823-determine-if-string-halves-are-alike) |
 | [1894-merge-strings-alternately](https://github.com/GaganSingh2/LeetCodeQus/tree/master/1894-merge-strings-alternately) |
+| [2337-remove-digit-from-number-to-maximize-result](https://github.com/GaganSingh2/LeetCodeQus/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 | [3194-find-words-containing-character](https://github.com/GaganSingh2/LeetCodeQus/tree/master/3194-find-words-containing-character) |
 ## Sliding Window
 |  |
@@ -265,8 +266,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0011-container-with-most-water) |
+| [2337-remove-digit-from-number-to-maximize-result](https://github.com/GaganSingh2/LeetCodeQus/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 ## Merge Sort
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0148-sort-list) |
+## Enumeration
+|  |
+| ------- |
+| [2337-remove-digit-from-number-to-maximize-result](https://github.com/GaganSingh2/LeetCodeQus/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 <!---LeetCode Topics End-->
