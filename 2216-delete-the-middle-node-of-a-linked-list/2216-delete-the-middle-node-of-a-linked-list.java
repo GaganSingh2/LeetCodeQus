@@ -16,22 +16,23 @@ class Solution {
             slow = slow.next;
             fast = fast.next.next;
         }
+        // System.out.println(slow.val);
         return slow;
     }
     public ListNode deleteMiddle(ListNode head) {
-        if(head.next == null){
+        if(head == null || head.next == null){
             return null;
         }
-
         ListNode mid = midNode(head);
-        ListNode temp = head;
-        ListNode prev = null;
-        while(temp!=mid){
-            prev = temp;
-            temp = temp.next;
+
+        ListNode newNode = new ListNode();
+        newNode = head;
+
+        while(newNode.next != mid){
+            newNode = newNode.next;
         }
-        prev.next = prev.next.next;
-        // System.out.println(prev.val);
+        newNode.next = mid.next;
+        // System.out.println(newNode.val);
         return head;
     }
 }
