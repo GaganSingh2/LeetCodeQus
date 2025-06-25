@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/GaganSingh2/LeetCodeQus/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/GaganSingh2/LeetCodeQus/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/GaganSingh2/LeetCodeQus/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2320-find-all-k-distant-indices-in-an-array](https://github.com/GaganSingh2/LeetCodeQus/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2551-apply-operations-to-an-array](https://github.com/GaganSingh2/LeetCodeQus/tree/master/2551-apply-operations-to-an-array) |
 ## Array
 |  |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2271-rearrange-array-elements-by-sign](https://github.com/GaganSingh2/LeetCodeQus/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/GaganSingh2/LeetCodeQus/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2308-divide-array-into-equal-pairs](https://github.com/GaganSingh2/LeetCodeQus/tree/master/2308-divide-array-into-equal-pairs) |
+| [2320-find-all-k-distant-indices-in-an-array](https://github.com/GaganSingh2/LeetCodeQus/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2478-longest-nice-subarray](https://github.com/GaganSingh2/LeetCodeQus/tree/master/2478-longest-nice-subarray) |
 | [2551-apply-operations-to-an-array](https://github.com/GaganSingh2/LeetCodeQus/tree/master/2551-apply-operations-to-an-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/GaganSingh2/LeetCodeQus/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
