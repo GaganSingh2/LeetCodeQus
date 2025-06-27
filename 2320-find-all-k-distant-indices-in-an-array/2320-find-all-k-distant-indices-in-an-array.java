@@ -10,9 +10,7 @@ class Solution {
             else if(nums[j] != key){
                 j++;
             }
-            // else if((Math.abs(i-j)>k) && (nums[j]==key)){
-            //     j++;
-            // }
+          
             else if(Math.abs(i-j)>k && j<i){
                 j++;
             }
