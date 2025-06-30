@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0205-isomorphic-strings) |
 | [0268-missing-number](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0268-missing-number) |
+| [0594-longest-harmonious-subsequence](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0594-longest-harmonious-subsequence) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/GaganSingh2/LeetCodeQus/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2308-divide-array-into-equal-pairs](https://github.com/GaganSingh2/LeetCodeQus/tree/master/2308-divide-array-into-equal-pairs) |
 | [3227-find-missing-and-repeated-values](https://github.com/GaganSingh2/LeetCodeQus/tree/master/3227-find-missing-and-repeated-values) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0485-max-consecutive-ones) |
+| [0594-longest-harmonious-subsequence](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0594-longest-harmonious-subsequence) |
 | [0739-daily-temperatures](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0739-daily-temperatures) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0978-valid-mountain-array](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0978-valid-mountain-array) |
@@ -251,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0594-longest-harmonious-subsequence](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0594-longest-harmonious-subsequence) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/GaganSingh2/LeetCodeQus/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2478-longest-nice-subarray](https://github.com/GaganSingh2/LeetCodeQus/tree/master/2478-longest-nice-subarray) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/GaganSingh2/LeetCodeQus/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
@@ -258,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0169-majority-element) |
+| [0594-longest-harmonious-subsequence](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0594-longest-harmonious-subsequence) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/GaganSingh2/LeetCodeQus/tree/master/1823-determine-if-string-halves-are-alike) |
 | [2308-divide-array-into-equal-pairs](https://github.com/GaganSingh2/LeetCodeQus/tree/master/2308-divide-array-into-equal-pairs) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/GaganSingh2/LeetCodeQus/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -269,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0268-missing-number) |
+| [0594-longest-harmonious-subsequence](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0594-longest-harmonious-subsequence) |
 | [3321-type-of-triangle](https://github.com/GaganSingh2/LeetCodeQus/tree/master/3321-type-of-triangle) |
 ## Bit Manipulation
 |  |
