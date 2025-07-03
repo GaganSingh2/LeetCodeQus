@@ -9,6 +9,10 @@ class Solution {
                 nums1[idx] = nums1[i];
                 i--;
             }
+            else if(i>=0 && nums1[i]==nums2[j]){
+                nums1[idx] = nums2[j];
+                j--;
+            }
             else{
                 nums1[idx] = nums2[j];
                 j--;
