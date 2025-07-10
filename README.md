@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0141-linked-list-cycle](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0142-linked-list-cycle-ii) |
+| [0160-intersection-of-two-linked-lists](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0205-isomorphic-strings) |
 | [0268-missing-number](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0268-missing-number) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0148-sort-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0234-palindrome-linked-list) |
@@ -66,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0148-sort-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0160-intersection-of-two-linked-lists) |
 | [0189-rotate-array](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0283-move-zeroes) |
