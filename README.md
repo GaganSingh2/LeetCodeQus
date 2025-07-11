@@ -328,4 +328,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/GaganSingh2/LeetCodeQus/tree/master/2337-remove-digit-from-number-to-maximize-result) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
