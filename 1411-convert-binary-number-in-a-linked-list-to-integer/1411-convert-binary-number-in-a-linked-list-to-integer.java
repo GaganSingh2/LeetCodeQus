@@ -10,6 +10,16 @@
  */
 class Solution {
     public int getDecimalValue(ListNode head) {
+        // 1st Way-----
+        int binNum = 0;
+        while(head != null){
+            binNum = (binNum << 1) | head.val;
+            head = head.next;
+        }
+
+        return binNum;
+        //2nd Way----
+        /*
         if(head==null || head.next==null){
             return head.val;
         }
@@ -35,5 +45,6 @@ class Solution {
             temp = temp.next;
         }
         return binNum;
+        */
     }
 }
