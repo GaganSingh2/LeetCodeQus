@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0594-longest-harmonious-subsequence) |
 | [0739-daily-temperatures](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0739-daily-temperatures) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0882-peak-index-in-a-mountain-array) |
+| [0932-monotonic-array](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0932-monotonic-array) |
 | [0978-valid-mountain-array](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0978-valid-mountain-array) |
 | [1230-maximum-of-absolute-value-expression](https://github.com/GaganSingh2/LeetCodeQus/tree/master/1230-maximum-of-absolute-value-expression) |
 | [1293-three-consecutive-odds](https://github.com/GaganSingh2/LeetCodeQus/tree/master/1293-three-consecutive-odds) |
