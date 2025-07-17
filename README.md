@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-find-lucky-integer-in-an-array](https://github.com/GaganSingh2/LeetCodeQus/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/GaganSingh2/LeetCodeQus/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/GaganSingh2/LeetCodeQus/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [1950-sign-of-the-product-of-an-array](https://github.com/GaganSingh2/LeetCodeQus/tree/master/1950-sign-of-the-product-of-an-array) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/GaganSingh2/LeetCodeQus/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2020-remove-one-element-to-make-the-array-strictly-increasing](https://github.com/GaganSingh2/LeetCodeQus/tree/master/2020-remove-one-element-to-make-the-array-strictly-increasing) |
 | [2048-build-array-from-permutation](https://github.com/GaganSingh2/LeetCodeQus/tree/master/2048-build-array-from-permutation) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1230-maximum-of-absolute-value-expression](https://github.com/GaganSingh2/LeetCodeQus/tree/master/1230-maximum-of-absolute-value-expression) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/GaganSingh2/LeetCodeQus/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/GaganSingh2/LeetCodeQus/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1950-sign-of-the-product-of-an-array](https://github.com/GaganSingh2/LeetCodeQus/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/GaganSingh2/LeetCodeQus/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2610-closest-prime-numbers-in-range](https://github.com/GaganSingh2/LeetCodeQus/tree/master/2610-closest-prime-numbers-in-range) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/GaganSingh2/LeetCodeQus/tree/master/3172-divisible-and-non-divisible-sums-difference) |
