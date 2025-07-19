@@ -12,47 +12,25 @@ class Solution {
             } 
             
             if(ch.equals("+")){
-                prev = temp.pop();
-                prev2 = temp.peek();
-                temp.push(prev);
-                int sum = prev+prev2;
-                prev2 = prev;
-                prev = sum;
-                temp.push(sum);
+                
+                int val1 = temp.pop();
+                int val2 = temp.peek();
+                temp.push(val1);
+                temp.push(val1 + val2);
             }
             else if(ch.equals("D")){
-                prev = temp.peek();
-                int doub = prev*2;
                 
-                prev2 = prev;
-                prev = doub;
-                temp.push(doub);
+
+                temp.push(temp.peek()*2);
             }
             else if(ch.equals("C")){
-                if(!temp.isEmpty()){
-                    temp.pop();
-                    prev = prev2;
-                    prev2 = prev3;
-                    prev3 = 0;
-                     if(!temp.isEmpty()){
-                        prev = temp.peek();
-                     }
-                   
-                }
-                else{
-                    return 0;
-                }
+                
+
+                temp.pop();
                 
             }
             else{
-                if(temp.isEmpty()){
-                    prev2 = 0;
-                }
-                else{
-                    prev2 = temp.peek();
-                }
                 
-                prev = val;
                 temp.push(val);
                 
             }
