@@ -19,18 +19,16 @@ class Solution {
 
         
         if(x<0) return false;
-        int temp = x;
-        int res = 0;
-        while(x>0){
-            int digit = x%10;
-            res = res * 10 + digit;
-            x /= 10;
+        int res = 0, temp = x;
+        while(temp>0){
+            int dig = temp % 10;
+            res = res*10+dig;
+            temp /= 10;
         }
-       if(res == temp){
-        return true;
-       }else{
-            return false;
-       }
+        if(x == res){
+            return true;
+        }
+        return false;
         
 
     }
