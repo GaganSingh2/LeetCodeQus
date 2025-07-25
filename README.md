@@ -166,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0657-robot-return-to-origin](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0682-baseball-game) |
 | [2048-build-array-from-permutation](https://github.com/GaganSingh2/LeetCodeQus/tree/master/2048-build-array-from-permutation) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/GaganSingh2/LeetCodeQus/tree/master/2260-divide-a-string-into-groups-of-size-k) |
@@ -272,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0345-reverse-vowels-of-a-string) |
+| [0657-robot-return-to-origin](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0657-robot-return-to-origin) |
 | [0742-to-lower-case](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0742-to-lower-case) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/GaganSingh2/LeetCodeQus/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/GaganSingh2/LeetCodeQus/tree/master/1460-number-of-substrings-containing-all-three-characters) |
