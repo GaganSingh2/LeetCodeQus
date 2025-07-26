@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/GaganSingh2/LeetCodeQus/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/GaganSingh2/LeetCodeQus/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/GaganSingh2/LeetCodeQus/tree/master/1528-kids-with-the-greatest-number-of-candies) |
+| [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/GaganSingh2/LeetCodeQus/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/GaganSingh2/LeetCodeQus/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/GaganSingh2/LeetCodeQus/tree/master/1950-sign-of-the-product-of-an-array) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/GaganSingh2/LeetCodeQus/tree/master/1995-finding-pairs-with-a-certain-sum) |
@@ -312,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0268-missing-number) |
 | [0594-longest-harmonious-subsequence](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0594-longest-harmonious-subsequence) |
+| [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/GaganSingh2/LeetCodeQus/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [3321-type-of-triangle](https://github.com/GaganSingh2/LeetCodeQus/tree/master/3321-type-of-triangle) |
 ## Bit Manipulation
 |  |
