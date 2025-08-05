@@ -13,7 +13,7 @@ class Solution {
                 cnt++;
                 temp.pop();
             }
-           else if(cnt>0){
+            else if(cnt>0){
                 temp.pop();
                 cnt--;
             }
