@@ -187,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0367-valid-perfect-square) |
 | [0507-perfect-number](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0507-perfect-number) |
@@ -238,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0050-powx-n) |
 | [0203-remove-linked-list-elements](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0234-palindrome-linked-list) |
 | [1013-fibonacci-number](https://github.com/GaganSingh2/LeetCodeQus/tree/master/1013-fibonacci-number) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/GaganSingh2/LeetCodeQus/tree/master/3600-find-the-k-th-character-in-string-game-i) |
@@ -325,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0268-missing-number) |
 | [2308-divide-array-into-equal-pairs](https://github.com/GaganSingh2/LeetCodeQus/tree/master/2308-divide-array-into-equal-pairs) |
 | [2478-longest-nice-subarray](https://github.com/GaganSingh2/LeetCodeQus/tree/master/2478-longest-nice-subarray) |
