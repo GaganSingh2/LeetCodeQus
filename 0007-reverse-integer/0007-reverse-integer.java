@@ -13,6 +13,7 @@ class Solution {
         if(rev <= max && rev>=min){
             return (int)rev;
         }
+        
         return 0;
     }
 }
