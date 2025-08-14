@@ -160,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0234-palindrome-linked-list) |
+| [0402-remove-k-digits](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0402-remove-k-digits) |
 | [0682-baseball-game](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0739-daily-temperatures) |
 | [2470-removing-stars-from-a-string](https://github.com/GaganSingh2/LeetCodeQus/tree/master/2470-removing-stars-from-a-string) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0084-largest-rectangle-in-histogram) |
+| [0402-remove-k-digits](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0402-remove-k-digits) |
 | [0739-daily-temperatures](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0739-daily-temperatures) |
 ## Simulation
 |  |
@@ -286,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0345-reverse-vowels-of-a-string) |
+| [0402-remove-k-digits](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0402-remove-k-digits) |
 | [0657-robot-return-to-origin](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0657-robot-return-to-origin) |
 | [0742-to-lower-case](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0742-to-lower-case) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/GaganSingh2/LeetCodeQus/tree/master/1302-delete-characters-to-make-fancy-string) |
@@ -353,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0011-container-with-most-water) |
+| [0402-remove-k-digits](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0402-remove-k-digits) |
 | [2199-two-furthest-houses-with-different-colors](https://github.com/GaganSingh2/LeetCodeQus/tree/master/2199-two-furthest-houses-with-different-colors) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/GaganSingh2/LeetCodeQus/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 ## Merge Sort
