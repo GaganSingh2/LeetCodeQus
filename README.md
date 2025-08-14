@@ -297,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1894-merge-strings-alternately](https://github.com/GaganSingh2/LeetCodeQus/tree/master/1894-merge-strings-alternately) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/GaganSingh2/LeetCodeQus/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/GaganSingh2/LeetCodeQus/tree/master/2337-remove-digit-from-number-to-maximize-result) |
+| [2346-largest-3-same-digit-number-in-string](https://github.com/GaganSingh2/LeetCodeQus/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2470-removing-stars-from-a-string](https://github.com/GaganSingh2/LeetCodeQus/tree/master/2470-removing-stars-from-a-string) |
 | [3194-find-words-containing-character](https://github.com/GaganSingh2/LeetCodeQus/tree/master/3194-find-words-containing-character) |
 | [3396-valid-word](https://github.com/GaganSingh2/LeetCodeQus/tree/master/3396-valid-word) |
