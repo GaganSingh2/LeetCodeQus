@@ -11,8 +11,11 @@ class Solution {
                     sb.append(ch2);
                     sb.append(ch3);
                 }else{
-                    if(Integer.parseInt(sb.substring(0, 3)) < Integer.parseInt(num.substring(i, i + 3))){
-                        sb.delete(0,3);
+                    // if(Integer.parseInt(sb.substring(0, 3)) < Integer.parseInt(num.substring(i, i + 3))){
+                    if(sb.charAt(0)<num.charAt(i)){
+                        sb.setLength(0); //Clear Everything in StringBuilder and
+                        
+                        //sb.delete(0,3) //use to delete the substring in stringbuilder
                         sb.append(ch1);
                         sb.append(ch2);
                         sb.append(ch3);
