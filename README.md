@@ -195,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0367-valid-perfect-square) |
 | [0507-perfect-number](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0507-perfect-number) |
 | [1013-fibonacci-number](https://github.com/GaganSingh2/LeetCodeQus/tree/master/1013-fibonacci-number) |
@@ -248,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/GaganSingh2/LeetCodeQus/tree/master/1013-fibonacci-number) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/GaganSingh2/LeetCodeQus/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Memoization
@@ -338,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0268-missing-number) |
+| [0342-power-of-four](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0342-power-of-four) |
 | [2308-divide-array-into-equal-pairs](https://github.com/GaganSingh2/LeetCodeQus/tree/master/2308-divide-array-into-equal-pairs) |
 | [2478-longest-nice-subarray](https://github.com/GaganSingh2/LeetCodeQus/tree/master/2478-longest-nice-subarray) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/GaganSingh2/LeetCodeQus/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
