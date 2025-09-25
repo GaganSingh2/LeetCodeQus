@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0088-merge-sorted-array) |
+| [0120-triangle](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -251,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0053-maximum-subarray) |
+| [0120-triangle](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1013-fibonacci-number](https://github.com/GaganSingh2/LeetCodeQus/tree/master/1013-fibonacci-number) |
 ## Recursion
