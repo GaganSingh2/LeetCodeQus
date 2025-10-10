@@ -163,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/GaganSingh2/LeetCodeQus/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/GaganSingh2/LeetCodeQus/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/GaganSingh2/LeetCodeQus/tree/master/3914-check-if-any-element-has-prime-frequency) |
+| [4039-compute-decimal-representation](https://github.com/GaganSingh2/LeetCodeQus/tree/master/4039-compute-decimal-representation) |
 ## Stack
 |  |
 | ------- |
@@ -234,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3830-find-closest-person](https://github.com/GaganSingh2/LeetCodeQus/tree/master/3830-find-closest-person) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/GaganSingh2/LeetCodeQus/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/GaganSingh2/LeetCodeQus/tree/master/3914-check-if-any-element-has-prime-frequency) |
+| [4039-compute-decimal-representation](https://github.com/GaganSingh2/LeetCodeQus/tree/master/4039-compute-decimal-representation) |
 ## Matrix
 |  |
 | ------- |
