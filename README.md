@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2020-remove-one-element-to-make-the-array-strictly-increasing](https://github.com/GaganSingh2/LeetCodeQus/tree/master/2020-remove-one-element-to-make-the-array-strictly-increasing) |
 | [2048-build-array-from-permutation](https://github.com/GaganSingh2/LeetCodeQus/tree/master/2048-build-array-from-permutation) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/GaganSingh2/LeetCodeQus/tree/master/2106-find-greatest-common-divisor-of-array) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/GaganSingh2/LeetCodeQus/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/GaganSingh2/LeetCodeQus/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2199-two-furthest-houses-with-different-colors](https://github.com/GaganSingh2/LeetCodeQus/tree/master/2199-two-furthest-houses-with-different-colors) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/GaganSingh2/LeetCodeQus/tree/master/2265-partition-array-according-to-given-pivot) |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0682-baseball-game) |
 | [1642-water-bottles](https://github.com/GaganSingh2/LeetCodeQus/tree/master/1642-water-bottles) |
 | [2048-build-array-from-permutation](https://github.com/GaganSingh2/LeetCodeQus/tree/master/2048-build-array-from-permutation) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/GaganSingh2/LeetCodeQus/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/GaganSingh2/LeetCodeQus/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/GaganSingh2/LeetCodeQus/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/GaganSingh2/LeetCodeQus/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -330,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/GaganSingh2/LeetCodeQus/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/GaganSingh2/LeetCodeQus/tree/master/1823-determine-if-string-halves-are-alike) |
 | [1894-merge-strings-alternately](https://github.com/GaganSingh2/LeetCodeQus/tree/master/1894-merge-strings-alternately) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/GaganSingh2/LeetCodeQus/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/GaganSingh2/LeetCodeQus/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/GaganSingh2/LeetCodeQus/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/GaganSingh2/LeetCodeQus/tree/master/2346-largest-3-same-digit-number-in-string) |
