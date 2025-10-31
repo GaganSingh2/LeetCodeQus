@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0268-missing-number) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0594-longest-harmonious-subsequence](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0594-longest-harmonious-subsequence) |
 | [0822-unique-morse-code-words](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0822-unique-morse-code-words) |
 | [0837-most-common-word](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0837-most-common-word) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0283-move-zeroes) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0485-max-consecutive-ones) |
 | [0594-longest-harmonious-subsequence](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0594-longest-harmonious-subsequence) |
 | [0682-baseball-game](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0682-baseball-game) |
