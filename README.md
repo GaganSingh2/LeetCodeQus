@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0739-daily-temperatures) |
 | [0822-unique-morse-code-words](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0822-unique-morse-code-words) |
 | [0837-most-common-word](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0837-most-common-word) |
+| [0867-transpose-matrix](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0867-transpose-matrix) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0932-monotonic-array](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0932-monotonic-array) |
 | [0978-valid-mountain-array](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0978-valid-mountain-array) |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0258-add-digits) |
 | [0657-robot-return-to-origin](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0682-baseball-game) |
+| [0867-transpose-matrix](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0867-transpose-matrix) |
 | [1642-water-bottles](https://github.com/GaganSingh2/LeetCodeQus/tree/master/1642-water-bottles) |
 | [2048-build-array-from-permutation](https://github.com/GaganSingh2/LeetCodeQus/tree/master/2048-build-array-from-permutation) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/GaganSingh2/LeetCodeQus/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -275,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0074-search-a-2d-matrix) |
+| [0867-transpose-matrix](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0867-transpose-matrix) |
 | [3227-find-missing-and-repeated-values](https://github.com/GaganSingh2/LeetCodeQus/tree/master/3227-find-missing-and-repeated-values) |
 ## Design
 |  |
