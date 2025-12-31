@@ -1,6 +1,6 @@
 class Solution {
     public int trap(int[] height) {
-        // 1st way-----------
+        // 1st way-----------(Using Array with Prefix and Suffix)
         // int n = height.length;
         // //Calculate leftMax boundary-array
         // int leftMax[] = new int[n];
@@ -27,17 +27,21 @@ class Solution {
         // }
         // return trappedWater;
 
-        // 2nd way-------------
-        int l=0,r=height.length-1,trap_water=0,lmax=0,rmax=0;
-        while(l<=r){
-            lmax = Math.max(lmax,height[l]);
-            rmax = Math.max(rmax,height[r]);
+        // 2nd way------------- (Using 2 Pointer)
+        int si = 0, ei = height.length-1;
+        int lmax = 0, rmax = 0, trapWater = 0;
+        while(si<=ei){
+            lmax = Math.max(lmax,height[si]);
+            rmax = Math.max(rmax,height[ei]);
             if(lmax<rmax){
-                trap_water += lmax - height[l++]; 
-            }else{
-                trap_water += rmax - height[r--];
+                trapWater += lmax - height[si];
+                si++;
+            }
+            else{
+                trapWater += rmax - height[ei];
+                ei--;
             }
         }
-        return trap_water;
+        return trapWater;
     }
 }
