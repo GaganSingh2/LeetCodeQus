@@ -1,47 +1,44 @@
 class Solution {
     public int trap(int[] height) {
         // 1st way-----------(Using Array with Prefix and Suffix)
-        // int n = height.length;
-        // //Calculate leftMax boundary-array
-        // int leftMax[] = new int[n];
-        // leftMax[0] = height[0];
-        // for(int i=1; i<n; i++){
-        //     leftMax[i] = Math.max(height[i],leftMax[i-1]);
-        // }
+        int len = height.length;
+        //Left Max Boundry
+        int lmax[] = new int[len];
+        lmax[0] = height[0];
+        for(int i=1; i<len; i++){
+            lmax[i] = Math.max(height[i],lmax[i-1]); // [4,4,4,4,4,5]
+        }
+        
+         //Left Max Boundry
+        int rmax[] = new int[len];
+        rmax[len-1] = height[len-1];
+        for(int i=len-2; i>=0; i--){
+            rmax[i] = Math.max(height[i],rmax[i+1]); // [5,5,5,5,5,5]
+        }
+        //Find the trapWater
+        int trapWater = 0;
+        for(int i=0; i<len; i++){
+            int currWidth = Math.min(rmax[i],lmax[i]);
 
-        // //Calculate rightMax boundary-array
-        // int rightMax[] = new int[n];
-        // rightMax[n-1] = height[n-1];
-        // for(int i=n-2; i>=0; i--){
-        //     rightMax[i] = Math.max(height[i],rightMax[i+1]);
-        // }
-
-        // //Loop for finding the waterLevel and trapped water
-        // int trappedWater = 0;
-        // for(int i=0; i<n; i++){
-        //     //calculate waterlevel
-        //     int waterLevel = Math.min(leftMax[i],rightMax[i]);
-
-        //     //calculate trapped water
-        //     trappedWater += waterLevel - height[i];
-        // }
-        // return trappedWater;
-
-        // 2nd way------------- (Using 2 Pointer)
-        int si = 0, ei = height.length-1;
-        int lmax = 0, rmax = 0, trapWater = 0;
-        while(si<=ei){
-            lmax = Math.max(lmax,height[si]);
-            rmax = Math.max(rmax,height[ei]);
-            if(lmax<rmax){
-                trapWater += lmax - height[si];
-                si++;
-            }
-            else{
-                trapWater += rmax - height[ei];
-                ei--;
-            }
+            trapWater += currWidth - height[i]; //9
         }
         return trapWater;
+
+        // 2nd way------------- (Using 2 Pointer)
+        // int si = 0, ei = height.length-1;
+        // int lmax = 0, rmax = 0, trapWater = 0;
+        // while(si<=ei){
+        //     lmax = Math.max(lmax,height[si]);
+        //     rmax = Math.max(rmax,height[ei]);
+        //     if(lmax<rmax){
+        //         trapWater += lmax - height[si];
+        //         si++;
+        //     }
+        //     else{
+        //         trapWater += rmax - height[ei];
+        //         ei--;
+        //     }
+        // }
+        // return trapWater;
     }
 }
