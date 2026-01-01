@@ -481,6 +481,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1161-project-employees-i](https://github.com/GaganSingh2/LeetCodeQus/tree/master/1161-project-employees-i) |
 | [1258-article-views-i](https://github.com/GaganSingh2/LeetCodeQus/tree/master/1258-article-views-i) |
 | [1827-invalid-tweets](https://github.com/GaganSingh2/LeetCodeQus/tree/master/1827-invalid-tweets) |
+| [1890-the-latest-login-in-2020](https://github.com/GaganSingh2/LeetCodeQus/tree/master/1890-the-latest-login-in-2020) |
 | [1908-recyclable-and-low-fat-products](https://github.com/GaganSingh2/LeetCodeQus/tree/master/1908-recyclable-and-low-fat-products) |
 ## Combinatorics
 |  |
