@@ -14,27 +14,6 @@ class Solution {
             sb.append(s.charAt(i));
         }
         return sb.toString();
-        // String lenEven = "";
-        // long val = Long.parseLong(s);
-        // System.out.println(val);
-        // long tmp = 0,place = 1;
-        // while(val>0){
-        //     long digit = val % 10;
-        //      tmp = tmp + digit * place;
-        //     place *= 10;
-        //     if(tmp % 2==0){
-               
-        //         lenEven = String.valueOf(tmp);
-        //     }
-        //     else{
-        //         lenEven = "";
-        //         place = 1;
-        //         tmp = 0;
-        //     }
-        //     val /= 10;
-        // }
-        // while(s.)
-
-        // return lenEven;
+       
     }
 }
