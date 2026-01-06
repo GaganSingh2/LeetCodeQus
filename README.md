@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1230-maximum-of-absolute-value-expression](https://github.com/GaganSingh2/LeetCodeQus/tree/master/1230-maximum-of-absolute-value-expression) |
 | [1293-three-consecutive-odds](https://github.com/GaganSingh2/LeetCodeQus/tree/master/1293-three-consecutive-odds) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/GaganSingh2/LeetCodeQus/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1390-four-divisors](https://github.com/GaganSingh2/LeetCodeQus/tree/master/1390-four-divisors) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/GaganSingh2/LeetCodeQus/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/GaganSingh2/LeetCodeQus/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1437-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/GaganSingh2/LeetCodeQus/tree/master/1437-check-if-all-1s-are-at-least-length-k-places-away) |
@@ -255,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0507-perfect-number](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0507-perfect-number) |
 | [1013-fibonacci-number](https://github.com/GaganSingh2/LeetCodeQus/tree/master/1013-fibonacci-number) |
 | [1230-maximum-of-absolute-value-expression](https://github.com/GaganSingh2/LeetCodeQus/tree/master/1230-maximum-of-absolute-value-expression) |
+| [1390-four-divisors](https://github.com/GaganSingh2/LeetCodeQus/tree/master/1390-four-divisors) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/GaganSingh2/LeetCodeQus/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/GaganSingh2/LeetCodeQus/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/GaganSingh2/LeetCodeQus/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
