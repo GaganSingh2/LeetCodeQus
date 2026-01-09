@@ -7,49 +7,83 @@ class MyQueue {
     }
    
     //1st Way----- push take O(n) and pop take O(1)
+    //TC: O(n)
+    // public void push(int x){
+        //put all value from fir stk to sec stk
+    //    while(!fir.isEmpty()){
+    //         sec.push(fir.pop());
+    //    }
+          //push new Value in fir stk
+    //    fir.push(x);
+          //put all value from fir stk to sec stk
+    //    while(!sec.isEmpty()){
+    //         fir.push(sec.pop());
+    //    }
+    // }
+
+    //TC: O(1)
+    // public int pop(){
+    //     if(empty()){
+    //         return -1;
+    //     }
+    //     return fir.pop();
+    // }
+
+    //TC: O(1)
+    // public int peek(){
+    //    if(empty()){
+    //         return -1;
+    //     }
+    //     return fir.peek();
+    // }
+    
+    // public boolean empty() {
+    //    return fir.isEmpty();
+    // }
+
+    //2nd Way---- push take O(1) and pop take O(n)
+    //TC: O(1)
     public void push(int x){
-       while(!fir.isEmpty()){
-            sec.push(fir.pop());
-       }
-       fir.push(x);
-       while(!sec.isEmpty()){
-            fir.push(sec.pop());
-       }
+        fir.push(x);
     }
 
+    //TC: O(n)
     public int pop(){
+        //If first stk is empty means no value are there for removing
         if(empty()){
             return -1;
         }
-        return fir.pop();
+
+        //Put all value from first stk to second stk
+        while(!fir.isEmpty()){
+            sec.push(fir.pop());
+        }
+        //pop top value from second stk
+        int top = sec.pop();
+        //Again, put all value from second stk to first stk
+        while(!sec.isEmpty()){
+            fir.push(sec.pop());
+        }
+        return top;
     }
 
     public int peek(){
-       if(empty()){
+        if(empty()){
             return -1;
         }
-        return fir.peek();
+        while(!fir.isEmpty()){
+            sec.push(fir.pop());
+        }
+        int top = sec.peek();
+        while(!sec.isEmpty()){
+            fir.push(sec.pop());
+        }
+        return top;
     }
-    public boolean empty() {
-       return fir.isEmpty();
+
+    public boolean empty(){
+        return fir.isEmpty();
     }
-
-    //2nd Way---- push take O(1) and pop take O(n)
-    // public void push(int x){
-
-    // }
-
-    // public int pop(){
-
-    // }
-
-    // public int peek(){
-
-    // }
-
-    // public boolean empty(){
-
-    // }
 }
 
 /**
@@ -62,8 +96,7 @@ class MyQueue {
  */
 
  /*
- 1 2 3=> 1 2 3
- 1 2 3 =>3 2 1
- s1 = 3 2 1 => 1 2 3
- s2 = 
+ 1 2 3 => 1 2 3
+ s1 = 1 2 3 => 3 2 1
+ s2 = 3 2 1 => 1 2 3
  */
