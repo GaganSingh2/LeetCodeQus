@@ -18,14 +18,14 @@ class MyQueue {
     }
 
     public int pop(){
-        if(fir.isEmpty()){
+        if(empty()){
             return -1;
         }
         return fir.pop();
     }
 
     public int peek(){
-       if(fir.isEmpty()){
+       if(empty()){
             return -1;
         }
         return fir.peek();
@@ -33,6 +33,23 @@ class MyQueue {
     public boolean empty() {
        return fir.isEmpty();
     }
+
+    //2nd Way---- push take O(1) and pop take O(n)
+    // public void push(int x){
+
+    // }
+
+    // public int pop(){
+
+    // }
+
+    // public int peek(){
+
+    // }
+
+    // public boolean empty(){
+
+    // }
 }
 
 /**
