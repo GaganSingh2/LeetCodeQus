@@ -6,39 +6,83 @@ class MyStack {
         sec = new LinkedList<>();
     }
 
-    // 1st Approach----- Push take O(n) and pop take O(1)
+//    // 1st Approach----- Push take O(n) and pop take O(1)
+    // public boolean empty(){
+    //     return fir.isEmpty();
+    // }
+
+    // //TC: O(n)
+    // public void push(int x){
+    //     while(!fir.isEmpty()){
+    //         sec.add(fir.remove());
+    //     }
+    //     fir.add(x);
+    //     while(!sec.isEmpty()){
+    //         fir.add(sec.remove());
+    //     }
+    // }
+
+    // //TC: O(1)
+    // public int pop(){
+    //    if(empty()){
+    //         return -1;
+    //    }
+    //    return fir.remove();
+    // }
+ 
+    // public int top(){
+    //    if(empty()){
+    //         return -1;
+    //    }
+    //    return fir.peek();
+    // }
+
+
+    //2nd Approach----- Push take O(1) and pop O(n)
     public boolean empty(){
         return fir.isEmpty();
     }
 
-    //TC: O(n)
+    //TC: O(1)
     public void push(int x){
-        while(!fir.isEmpty()){
-            sec.add(fir.remove());
-        }
         fir.add(x);
+    }
+
+    //TC: O(n)
+    public int pop(){
+        if(empty()){
+            return -1;
+        }
+        int top = 0;
+        while(!fir.isEmpty()){
+            top = fir.remove();
+            if(empty()){
+                break;
+            }
+            else{
+                sec.add(top);
+            }
+        }
         while(!sec.isEmpty()){
             fir.add(sec.remove());
         }
+        return top;
     }
-
-    //TC: O(1)
-    public int pop(){
-       if(empty()){
-            return -1;
-       }
-       return fir.remove();
-    }
-
-    
+ 
     public int top(){
-       if(empty()){
+        if(empty()){
             return -1;
-       }
-       return fir.peek();
+        }
+        int top = 0;
+        while(!fir.isEmpty()){
+            top = fir.remove();
+            sec.add(top);
+        }
+        while(!sec.isEmpty()){
+            fir.add(sec.remove());
+        }
+        return top;
     }
-
-
 }
 
 /**
@@ -52,6 +96,6 @@ class MyStack {
 
  /**
  1 2 3=> 3 2 1 stk
- q1 = 3 2 1
- q2 = 2 1
+ q1 =3 
+ q2 =1 2
   */
