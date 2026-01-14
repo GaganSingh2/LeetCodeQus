@@ -10,11 +10,7 @@ class Solution {
         }
         return true;
     }
-    
     public String longestPalindrome(String s) {
-        // if(s.length()==1){
-        //     return s;
-        // }
         StringBuilder sb = new StringBuilder("");
         int len = sb.length();
         for(int i=0; i<=s.length()-1; i++){
