@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0387-first-unique-character-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0594-longest-harmonious-subsequence](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0594-longest-harmonious-subsequence) |
+| [0706-design-hashmap](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0706-design-hashmap) |
 | [0822-unique-morse-code-words](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0822-unique-morse-code-words) |
 | [0837-most-common-word](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0837-most-common-word) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0328-odd-even-linked-list) |
+| [0706-design-hashmap](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0706-design-hashmap) |
 | [0908-middle-of-the-linked-list](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0908-middle-of-the-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/GaganSingh2/LeetCodeQus/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/GaganSingh2/LeetCodeQus/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0485-max-consecutive-ones) |
 | [0594-longest-harmonious-subsequence](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0594-longest-harmonious-subsequence) |
 | [0682-baseball-game](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0682-baseball-game) |
+| [0706-design-hashmap](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0706-design-hashmap) |
 | [0739-daily-temperatures](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0739-daily-temperatures) |
 | [0822-unique-morse-code-words](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0822-unique-morse-code-words) |
 | [0837-most-common-word](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0837-most-common-word) |
@@ -311,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0232-implement-queue-using-stacks) |
+| [0706-design-hashmap](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0706-design-hashmap) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/GaganSingh2/LeetCodeQus/tree/master/1995-finding-pairs-with-a-certain-sum) |
 ## Queue
 |  |
@@ -527,4 +531,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/GaganSingh2/LeetCodeQus/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+## Hash Function
+|  |
+| ------- |
+| [0706-design-hashmap](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0706-design-hashmap) |
 <!---LeetCode Topics End-->
