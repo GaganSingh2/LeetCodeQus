@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0944-delete-columns-to-make-sorted](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0944-delete-columns-to-make-sorted) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0978-valid-mountain-array](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0978-valid-mountain-array) |
+| [1200-minimum-absolute-difference](https://github.com/GaganSingh2/LeetCodeQus/tree/master/1200-minimum-absolute-difference) |
 | [1230-maximum-of-absolute-value-expression](https://github.com/GaganSingh2/LeetCodeQus/tree/master/1230-maximum-of-absolute-value-expression) |
 | [1266-minimum-time-visiting-all-points](https://github.com/GaganSingh2/LeetCodeQus/tree/master/1266-minimum-time-visiting-all-points) |
 | [1293-three-consecutive-odds](https://github.com/GaganSingh2/LeetCodeQus/tree/master/1293-three-consecutive-odds) |
@@ -449,6 +450,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0414-third-maximum-number) |
 | [0594-longest-harmonious-subsequence](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0594-longest-harmonious-subsequence) |
+| [1200-minimum-absolute-difference](https://github.com/GaganSingh2/LeetCodeQus/tree/master/1200-minimum-absolute-difference) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/GaganSingh2/LeetCodeQus/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/GaganSingh2/LeetCodeQus/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/GaganSingh2/LeetCodeQus/tree/master/2392-successful-pairs-of-spells-and-potions) |
