@@ -4,9 +4,9 @@ class Solution {
         for(int i=0; i<nums.length; i++){
             if(nums[i]%2==0){
                 freq.put(nums[i], freq.getOrDefault(nums[i], 0)+1);
-                // freq.put(nums[i], freq.get(nums[i])+1);
+                
             }
-            // if(nums[i])
+            
         }
 
         int res = -1, times = 0;
