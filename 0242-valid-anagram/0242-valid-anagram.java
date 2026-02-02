@@ -6,11 +6,13 @@ class Solution {
             return false;
        }
        HashMap<Character,Integer> freq = new HashMap<>();
+       //Increase THe Frequency
        for(int i=0; i<s.length(); i++){
             char ch = s.charAt(i);
             freq.put(ch, freq.getOrDefault(ch, 0)+1);
        }
 
+        //Decrease the Frequency
        for(int i=0; i<t.length(); i++){
             char ch = t.charAt(i);
             if(freq.get(ch) != null){
@@ -22,10 +24,10 @@ class Solution {
                 }
             }
             else{
-
+                return false;
             }
        }
-       return freq.size()==0;
+       return freq.isEmpty();
 
         //2nd Approach-------------------
         // if(s.length() != t.length()){
