@@ -5,34 +5,29 @@ class Solution {
        if(s.length() != t.length()){
             return false;
        }
-       LinkedHashMap<Character,Integer> map = new LinkedHashMap<>();
+       HashMap<Character,Integer> freq = new HashMap<>();
        for(int i=0; i<s.length(); i++){
             char ch = s.charAt(i);
-            if(map.containsKey(ch)){
-                map.put(ch,map.get(ch)+1);
-            }
-            else{
-                map.put(ch,1);
-            }
-        }
-       
-        for(int i=0; i<t.length(); i++){
-            char ch = t.charAt(i);
-            if(map.containsKey(ch)){
-                map.put(ch,map.get(ch)-1);
-            }
-            else{
-                map.put(ch,1);
-            }
-        }
-        for(Character k: map.keySet()){
-            if(map.get(k) != 0){
-                return false;
-            }
-        }
-        return true;
+            freq.put(ch, freq.getOrDefault(ch, 0)+1);
+       }
 
-        //2nd Approach
+       for(int i=0; i<t.length(); i++){
+            char ch = t.charAt(i);
+            if(freq.get(ch) != null){
+                if(freq.get(ch)==1){
+                    freq.remove(ch);
+                }
+                else{
+                    freq.put(ch,freq.get(ch)-1);
+                }
+            }
+            else{
+
+            }
+       }
+       return freq.size()==0;
+
+        //2nd Approach-------------------
         // if(s.length() != t.length()){
         //     return false;
         // }
