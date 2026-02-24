@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/GaganSingh2/LeetCodeQus/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/GaganSingh2/LeetCodeQus/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2308-divide-array-into-equal-pairs](https://github.com/GaganSingh2/LeetCodeQus/tree/master/2308-divide-array-into-equal-pairs) |
+| [2395-find-subarrays-with-equal-sum](https://github.com/GaganSingh2/LeetCodeQus/tree/master/2395-find-subarrays-with-equal-sum) |
 | [2404-most-frequent-even-element](https://github.com/GaganSingh2/LeetCodeQus/tree/master/2404-most-frequent-even-element) |
 | [3227-find-missing-and-repeated-values](https://github.com/GaganSingh2/LeetCodeQus/tree/master/3227-find-missing-and-repeated-values) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/GaganSingh2/LeetCodeQus/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2308-divide-array-into-equal-pairs](https://github.com/GaganSingh2/LeetCodeQus/tree/master/2308-divide-array-into-equal-pairs) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/GaganSingh2/LeetCodeQus/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/GaganSingh2/LeetCodeQus/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [2395-find-subarrays-with-equal-sum](https://github.com/GaganSingh2/LeetCodeQus/tree/master/2395-find-subarrays-with-equal-sum) |
 | [2404-most-frequent-even-element](https://github.com/GaganSingh2/LeetCodeQus/tree/master/2404-most-frequent-even-element) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/GaganSingh2/LeetCodeQus/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2478-longest-nice-subarray](https://github.com/GaganSingh2/LeetCodeQus/tree/master/2478-longest-nice-subarray) |
