@@ -29,25 +29,28 @@ class Solution {
 
 
 
-        //TC: O(n), SC: O(n)
-        HashMap<Integer,Integer> freq = new HashMap<>();
-        for(int i=0; i<nums.length; i++){
-            freq.put(nums[i], freq.getOrDefault(nums[i], 0)+1);
+        //TC: O(n), SC: O(n)-----------
+       int freq[] = new int[201];
+       //COunt Frequency using array
+        for(int num: nums){
+            freq[num+100]++;
         }
         List<Integer> bucket[] = new List[nums.length+1];
-        for(Integer val: freq.keySet()){
-            Integer idx = freq.get(val);
-            if(bucket[idx] == null){
-                bucket[idx] = new ArrayList<>();
+        //Numbers automatically added in descending order, No need for sorting
+        for(int i=200; i>=0; i--){
+            if(freq[i]>0){
+                int idx = freq[i];
+                if(bucket[idx] == null){
+                    bucket[idx] = new ArrayList<>();
+                }
+                bucket[idx].add(i-100);
             }
-            bucket[idx].add(val);
         }
 
         int res[] = new int[nums.length];
         int idx = 0;
         for(int i=0; i<bucket.length; i++){
             if(bucket[i] != null){
-                Collections.sort(bucket[i], Collections.reverseOrder());
                 for(int val: bucket[i]){
                     for(int j=0; j<i; j++){
                         res[idx++] = val;
@@ -56,5 +59,7 @@ class Solution {
             }
         }
         return res;
+        // Since value range is small, I can use a frequency array and iterate in reverse order while filling buckets. 
+        // This removes the need for sorting, giving pure O(n) time complexity.
     }
 }
