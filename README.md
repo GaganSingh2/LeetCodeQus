@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/GaganSingh2/LeetCodeQus/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/GaganSingh2/LeetCodeQus/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/GaganSingh2/LeetCodeQus/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/GaganSingh2/LeetCodeQus/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/GaganSingh2/LeetCodeQus/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2308-divide-array-into-equal-pairs](https://github.com/GaganSingh2/LeetCodeQus/tree/master/2308-divide-array-into-equal-pairs) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-find-lucky-integer-in-an-array](https://github.com/GaganSingh2/LeetCodeQus/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/GaganSingh2/LeetCodeQus/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/GaganSingh2/LeetCodeQus/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/GaganSingh2/LeetCodeQus/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/GaganSingh2/LeetCodeQus/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/GaganSingh2/LeetCodeQus/tree/master/1950-sign-of-the-product-of-an-array) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/GaganSingh2/LeetCodeQus/tree/master/1995-finding-pairs-with-a-certain-sum) |
@@ -477,6 +479,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0594-longest-harmonious-subsequence) |
 | [1200-minimum-absolute-difference](https://github.com/GaganSingh2/LeetCodeQus/tree/master/1200-minimum-absolute-difference) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/GaganSingh2/LeetCodeQus/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/GaganSingh2/LeetCodeQus/tree/master/1636-sort-array-by-increasing-frequency) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/GaganSingh2/LeetCodeQus/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/GaganSingh2/LeetCodeQus/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/GaganSingh2/LeetCodeQus/tree/master/2943-maximize-area-of-square-hole-in-grid) |
