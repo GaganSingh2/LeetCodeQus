@@ -289,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0342-power-of-four) |
+| [0343-integer-break](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0343-integer-break) |
 | [0367-valid-perfect-square](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0441-arranging-coins) |
 | [0507-perfect-number](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0507-perfect-number) |
@@ -357,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0053-maximum-subarray) |
 | [0120-triangle](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0343-integer-break](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0343-integer-break) |
 | [1013-fibonacci-number](https://github.com/GaganSingh2/LeetCodeQus/tree/master/1013-fibonacci-number) |
 ## Recursion
 |  |
