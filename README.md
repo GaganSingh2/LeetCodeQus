@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/GaganSingh2/LeetCodeQus/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/GaganSingh2/LeetCodeQus/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2551-apply-operations-to-an-array](https://github.com/GaganSingh2/LeetCodeQus/tree/master/2551-apply-operations-to-an-array) |
+| [3643-flip-square-submatrix-vertically](https://github.com/GaganSingh2/LeetCodeQus/tree/master/3643-flip-square-submatrix-vertically) |
 ## Array
 |  |
 | ------- |
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3616-make-array-elements-equal-to-zero](https://github.com/GaganSingh2/LeetCodeQus/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/GaganSingh2/LeetCodeQus/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3637-trionic-array-i](https://github.com/GaganSingh2/LeetCodeQus/tree/master/3637-trionic-array-i) |
+| [3643-flip-square-submatrix-vertically](https://github.com/GaganSingh2/LeetCodeQus/tree/master/3643-flip-square-submatrix-vertically) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/GaganSingh2/LeetCodeQus/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/GaganSingh2/LeetCodeQus/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/GaganSingh2/LeetCodeQus/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
@@ -335,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0867-transpose-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/GaganSingh2/LeetCodeQus/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [3227-find-missing-and-repeated-values](https://github.com/GaganSingh2/LeetCodeQus/tree/master/3227-find-missing-and-repeated-values) |
+| [3643-flip-square-submatrix-vertically](https://github.com/GaganSingh2/LeetCodeQus/tree/master/3643-flip-square-submatrix-vertically) |
 ## Design
 |  |
 | ------- |
