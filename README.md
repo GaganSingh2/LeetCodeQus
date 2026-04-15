@@ -203,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2418-sort-the-people](https://github.com/GaganSingh2/LeetCodeQus/tree/master/2418-sort-the-people) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/GaganSingh2/LeetCodeQus/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2478-longest-nice-subarray](https://github.com/GaganSingh2/LeetCodeQus/tree/master/2478-longest-nice-subarray) |
+| [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/GaganSingh2/LeetCodeQus/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2551-apply-operations-to-an-array](https://github.com/GaganSingh2/LeetCodeQus/tree/master/2551-apply-operations-to-an-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/GaganSingh2/LeetCodeQus/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2690-house-robber-iv](https://github.com/GaganSingh2/LeetCodeQus/tree/master/2690-house-robber-iv) |
@@ -449,6 +450,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2346-largest-3-same-digit-number-in-string](https://github.com/GaganSingh2/LeetCodeQus/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2418-sort-the-people](https://github.com/GaganSingh2/LeetCodeQus/tree/master/2418-sort-the-people) |
 | [2470-removing-stars-from-a-string](https://github.com/GaganSingh2/LeetCodeQus/tree/master/2470-removing-stars-from-a-string) |
+| [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/GaganSingh2/LeetCodeQus/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/GaganSingh2/LeetCodeQus/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [3194-find-words-containing-character](https://github.com/GaganSingh2/LeetCodeQus/tree/master/3194-find-words-containing-character) |
 | [3396-valid-word](https://github.com/GaganSingh2/LeetCodeQus/tree/master/3396-valid-word) |
