@@ -1,5 +1,6 @@
 class Solution {
     public int closestTarget(String[] words, String target, int startIndex) {
+        if(startIndex>words.length) return -1;
         int len = words.length;
         int targetIdx = Integer.MAX_VALUE;
         for(int i=0; i<len; i++){
