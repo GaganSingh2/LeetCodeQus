@@ -1,17 +1,16 @@
 class Solution {
     public int countDigitOccurrences(int[] nums, int digit) {
-        int cnt = 0;
-        for(int i=0; i<nums.length; i++){
-            int currNum = nums[i];
-            while(currNum>0){
-                int currDigit = currNum % 10;
-                if(currDigit==digit){
-                    cnt++;
+        int count = 0;
+        for(int i=0;i<nums.length;i++){
+            while(nums[i]>0){
+                int temp = nums[i]%10;
+                if(temp==digit){
+                    count++;
                 }
-                currNum /= 10;
+                nums[i]/=10;
             }
         }
-        return cnt;
+        return count;
     }
 }
 
