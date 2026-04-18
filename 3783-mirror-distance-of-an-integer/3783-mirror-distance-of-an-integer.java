@@ -1,10 +1,10 @@
 class Solution {
-    public int reverse(int val){
+    public int reverseNum(int num){
         int rev = 0;
-        while(val>0){
-            int digit = val%10;
+        while(num>0){
+            int digit = num%10;
             rev = rev * 10 + digit;
-            val /= 10;
+            num /= 10;
         }
         return rev;
     }
@@ -12,6 +12,7 @@ class Solution {
         if(n>=1 && n<=9){
             return 0;
         }
-        return Math.abs(n - reverse(n));
+        int mirrorNum = reverseNum(n);
+        return Math.abs(n-mirrorNum);
     }
 }
