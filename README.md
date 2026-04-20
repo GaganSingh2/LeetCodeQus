@@ -186,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/GaganSingh2/LeetCodeQus/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2020-remove-one-element-to-make-the-array-strictly-increasing](https://github.com/GaganSingh2/LeetCodeQus/tree/master/2020-remove-one-element-to-make-the-array-strictly-increasing) |
 | [2048-build-array-from-permutation](https://github.com/GaganSingh2/LeetCodeQus/tree/master/2048-build-array-from-permutation) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/GaganSingh2/LeetCodeQus/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/GaganSingh2/LeetCodeQus/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/GaganSingh2/LeetCodeQus/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/GaganSingh2/LeetCodeQus/tree/master/2144-maximum-difference-between-increasing-elements) |
@@ -545,6 +546,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0011-container-with-most-water) |
 | [0402-remove-k-digits](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0402-remove-k-digits) |
 | [1448-maximum-69-number](https://github.com/GaganSingh2/LeetCodeQus/tree/master/1448-maximum-69-number) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/GaganSingh2/LeetCodeQus/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2199-two-furthest-houses-with-different-colors](https://github.com/GaganSingh2/LeetCodeQus/tree/master/2199-two-furthest-houses-with-different-colors) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/GaganSingh2/LeetCodeQus/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 ## Merge Sort
