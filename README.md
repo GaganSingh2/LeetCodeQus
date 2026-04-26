@@ -453,6 +453,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2418-sort-the-people](https://github.com/GaganSingh2/LeetCodeQus/tree/master/2418-sort-the-people) |
 | [2470-removing-stars-from-a-string](https://github.com/GaganSingh2/LeetCodeQus/tree/master/2470-removing-stars-from-a-string) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/GaganSingh2/LeetCodeQus/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
+| [2833-furthest-point-from-origin](https://github.com/GaganSingh2/LeetCodeQus/tree/master/2833-furthest-point-from-origin) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/GaganSingh2/LeetCodeQus/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [3194-find-words-containing-character](https://github.com/GaganSingh2/LeetCodeQus/tree/master/3194-find-words-containing-character) |
 | [3396-valid-word](https://github.com/GaganSingh2/LeetCodeQus/tree/master/3396-valid-word) |
@@ -484,6 +485,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2341-maximum-number-of-pairs-in-array](https://github.com/GaganSingh2/LeetCodeQus/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [2404-most-frequent-even-element](https://github.com/GaganSingh2/LeetCodeQus/tree/master/2404-most-frequent-even-element) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/GaganSingh2/LeetCodeQus/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [2833-furthest-point-from-origin](https://github.com/GaganSingh2/LeetCodeQus/tree/master/2833-furthest-point-from-origin) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/GaganSingh2/LeetCodeQus/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/GaganSingh2/LeetCodeQus/tree/master/3914-check-if-any-element-has-prime-frequency) |
 ## Sorting
