@@ -20,7 +20,7 @@ class Solution {
             size++;
         }
        
-        k %= size;
+        k %= size;   //remove the necessary rotation
        
         if(k==0) return head; //for no repeate
 
