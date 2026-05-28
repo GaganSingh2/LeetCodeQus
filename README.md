@@ -641,6 +641,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0145-binary-tree-postorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0222-count-complete-tree-nodes) |
@@ -656,6 +657,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0145-binary-tree-postorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0222-count-complete-tree-nodes) |
@@ -669,6 +671,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0094-binary-tree-inorder-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0145-binary-tree-postorder-traversal) |
 | [0404-sum-of-left-leaves](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0404-sum-of-left-leaves) |
@@ -682,6 +685,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0112-path-sum) |
 | [0404-sum-of-left-leaves](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0404-sum-of-left-leaves) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0637-average-of-levels-in-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/GaganSingh2/LeetCodeQus/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
