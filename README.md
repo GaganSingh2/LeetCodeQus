@@ -537,6 +537,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2274-keep-multiplying-found-values-by-two](https://github.com/GaganSingh2/LeetCodeQus/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/GaganSingh2/LeetCodeQus/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2418-sort-the-people](https://github.com/GaganSingh2/LeetCodeQus/tree/master/2418-sort-the-people) |
+| [2583-kth-largest-sum-in-a-binary-tree](https://github.com/GaganSingh2/LeetCodeQus/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 | [2784-check-if-array-is-good](https://github.com/GaganSingh2/LeetCodeQus/tree/master/2784-check-if-array-is-good) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/GaganSingh2/LeetCodeQus/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [3321-type-of-triangle](https://github.com/GaganSingh2/LeetCodeQus/tree/master/3321-type-of-triangle) |
@@ -659,6 +660,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0543-diameter-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0637-average-of-levels-in-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/GaganSingh2/LeetCodeQus/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [2583-kth-largest-sum-in-a-binary-tree](https://github.com/GaganSingh2/LeetCodeQus/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -681,6 +683,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0543-diameter-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0637-average-of-levels-in-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/GaganSingh2/LeetCodeQus/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [2583-kth-largest-sum-in-a-binary-tree](https://github.com/GaganSingh2/LeetCodeQus/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -713,6 +716,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0404-sum-of-left-leaves](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0404-sum-of-left-leaves) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0637-average-of-levels-in-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/GaganSingh2/LeetCodeQus/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [2583-kth-largest-sum-in-a-binary-tree](https://github.com/GaganSingh2/LeetCodeQus/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 ## Backtracking
 |  |
 | ------- |
