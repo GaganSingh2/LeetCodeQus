@@ -222,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3194-find-words-containing-character](https://github.com/GaganSingh2/LeetCodeQus/tree/master/3194-find-words-containing-character) |
 | [3227-find-missing-and-repeated-values](https://github.com/GaganSingh2/LeetCodeQus/tree/master/3227-find-missing-and-repeated-values) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/GaganSingh2/LeetCodeQus/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/GaganSingh2/LeetCodeQus/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/GaganSingh2/LeetCodeQus/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/GaganSingh2/LeetCodeQus/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 | [3321-type-of-triangle](https://github.com/GaganSingh2/LeetCodeQus/tree/master/3321-type-of-triangle) |
@@ -335,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2610-closest-prime-numbers-in-range](https://github.com/GaganSingh2/LeetCodeQus/tree/master/2610-closest-prime-numbers-in-range) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/GaganSingh2/LeetCodeQus/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3227-find-missing-and-repeated-values](https://github.com/GaganSingh2/LeetCodeQus/tree/master/3227-find-missing-and-repeated-values) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/GaganSingh2/LeetCodeQus/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3321-type-of-triangle](https://github.com/GaganSingh2/LeetCodeQus/tree/master/3321-type-of-triangle) |
 | [3336-water-bottles-ii](https://github.com/GaganSingh2/LeetCodeQus/tree/master/3336-water-bottles-ii) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/GaganSingh2/LeetCodeQus/tree/master/3432-count-partitions-with-even-sum-difference) |
