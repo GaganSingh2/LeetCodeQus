@@ -197,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2106-find-greatest-common-divisor-of-array](https://github.com/GaganSingh2/LeetCodeQus/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/GaganSingh2/LeetCodeQus/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/GaganSingh2/LeetCodeQus/tree/master/2144-maximum-difference-between-increasing-elements) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/GaganSingh2/LeetCodeQus/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2199-two-furthest-houses-with-different-colors](https://github.com/GaganSingh2/LeetCodeQus/tree/master/2199-two-furthest-houses-with-different-colors) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/GaganSingh2/LeetCodeQus/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/GaganSingh2/LeetCodeQus/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -534,6 +535,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1200-minimum-absolute-difference](https://github.com/GaganSingh2/LeetCodeQus/tree/master/1200-minimum-absolute-difference) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/GaganSingh2/LeetCodeQus/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/GaganSingh2/LeetCodeQus/tree/master/1636-sort-array-by-increasing-frequency) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/GaganSingh2/LeetCodeQus/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/GaganSingh2/LeetCodeQus/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/GaganSingh2/LeetCodeQus/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2418-sort-the-people](https://github.com/GaganSingh2/LeetCodeQus/tree/master/2418-sort-the-people) |
@@ -581,6 +583,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0402-remove-k-digits) |
 | [1448-maximum-69-number](https://github.com/GaganSingh2/LeetCodeQus/tree/master/1448-maximum-69-number) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/GaganSingh2/LeetCodeQus/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/GaganSingh2/LeetCodeQus/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2199-two-furthest-houses-with-different-colors](https://github.com/GaganSingh2/LeetCodeQus/tree/master/2199-two-furthest-houses-with-different-colors) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/GaganSingh2/LeetCodeQus/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 ## Merge Sort
