@@ -13,8 +13,11 @@ class Solution {
             if(freq[i]==0){
                 continue;
             }
+            //buy full or partial
             int canBuy = Math.min(freq[i], coins/i);
+            //count total Ice-Cream 
             totalCnt += canBuy;
+            //Decrease the coins
             coins -= canBuy * i;
             if(coins < i){
                 break;
