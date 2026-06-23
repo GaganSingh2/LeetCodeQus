@@ -423,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0343-integer-break](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0343-integer-break) |
 | [1013-fibonacci-number](https://github.com/GaganSingh2/LeetCodeQus/tree/master/1013-fibonacci-number) |
+| [3699-number-of-zigzag-arrays-i](https://github.com/GaganSingh2/LeetCodeQus/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/GaganSingh2/LeetCodeQus/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Recursion
 |  |
@@ -624,6 +625,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3432-count-partitions-with-even-sum-difference](https://github.com/GaganSingh2/LeetCodeQus/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/GaganSingh2/LeetCodeQus/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/GaganSingh2/LeetCodeQus/tree/master/3616-make-array-elements-equal-to-zero) |
+| [3699-number-of-zigzag-arrays-i](https://github.com/GaganSingh2/LeetCodeQus/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3903-smallest-stable-index-i](https://github.com/GaganSingh2/LeetCodeQus/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/GaganSingh2/LeetCodeQus/tree/master/3904-smallest-stable-index-ii) |
 ## Greedy
