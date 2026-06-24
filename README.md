@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0345-reverse-vowels-of-a-string) |
 | [0908-middle-of-the-linked-list](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0908-middle-of-the-linked-list) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0287-find-the-duplicate-number) |
 | [0414-third-maximum-number](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0485-max-consecutive-ones) |
@@ -467,6 +469,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0162-find-peak-element) |
 | [0222-count-complete-tree-nodes](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0287-find-the-duplicate-number) |
 | [0367-valid-perfect-square](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0441-arranging-coins) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -598,6 +601,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0389-find-the-difference) |
 | [2308-divide-array-into-equal-pairs](https://github.com/GaganSingh2/LeetCodeQus/tree/master/2308-divide-array-into-equal-pairs) |
