@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/GaganSingh2/LeetCodeQus/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/GaganSingh2/LeetCodeQus/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/GaganSingh2/LeetCodeQus/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/GaganSingh2/LeetCodeQus/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3803-count-residue-prefixes](https://github.com/GaganSingh2/LeetCodeQus/tree/master/3803-count-residue-prefixes) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/GaganSingh2/LeetCodeQus/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/GaganSingh2/LeetCodeQus/tree/master/3914-check-if-any-element-has-prime-frequency) |
@@ -263,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/GaganSingh2/LeetCodeQus/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/GaganSingh2/LeetCodeQus/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3689-maximum-total-subarray-value-i](https://github.com/GaganSingh2/LeetCodeQus/tree/master/3689-maximum-total-subarray-value-i) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/GaganSingh2/LeetCodeQus/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/GaganSingh2/LeetCodeQus/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3838-weighted-word-mapping](https://github.com/GaganSingh2/LeetCodeQus/tree/master/3838-weighted-word-mapping) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/GaganSingh2/LeetCodeQus/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
@@ -560,6 +562,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2404-most-frequent-even-element](https://github.com/GaganSingh2/LeetCodeQus/tree/master/2404-most-frequent-even-element) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/GaganSingh2/LeetCodeQus/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2833-furthest-point-from-origin](https://github.com/GaganSingh2/LeetCodeQus/tree/master/2833-furthest-point-from-origin) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/GaganSingh2/LeetCodeQus/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/GaganSingh2/LeetCodeQus/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/GaganSingh2/LeetCodeQus/tree/master/3914-check-if-any-element-has-prime-frequency) |
 ## Sorting
@@ -621,6 +624,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0190-reverse-bits) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/GaganSingh2/LeetCodeQus/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -630,6 +634,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/GaganSingh2/LeetCodeQus/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/GaganSingh2/LeetCodeQus/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/GaganSingh2/LeetCodeQus/tree/master/3699-number-of-zigzag-arrays-i) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/GaganSingh2/LeetCodeQus/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3903-smallest-stable-index-i](https://github.com/GaganSingh2/LeetCodeQus/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/GaganSingh2/LeetCodeQus/tree/master/3904-smallest-stable-index-ii) |
 ## Greedy
@@ -650,6 +655,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0148-sort-list) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/GaganSingh2/LeetCodeQus/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Enumeration
 |  |
 | ------- |
@@ -839,4 +845,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1833-maximum-ice-cream-bars](https://github.com/GaganSingh2/LeetCodeQus/tree/master/1833-maximum-ice-cream-bars) |
+## Segment Tree
+|  |
+| ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/GaganSingh2/LeetCodeQus/tree/master/3737-count-subarrays-with-majority-element-i) |
 <!---LeetCode Topics End-->
