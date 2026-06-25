@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2418-sort-the-people](https://github.com/GaganSingh2/LeetCodeQus/tree/master/2418-sort-the-people) |
 | [2540-minimum-common-value](https://github.com/GaganSingh2/LeetCodeQus/tree/master/2540-minimum-common-value) |
 | [2784-check-if-array-is-good](https://github.com/GaganSingh2/LeetCodeQus/tree/master/2784-check-if-array-is-good) |
+| [3083-existence-of-a-substring-in-a-string-and-its-reverse](https://github.com/GaganSingh2/LeetCodeQus/tree/master/3083-existence-of-a-substring-in-a-string-and-its-reverse) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/GaganSingh2/LeetCodeQus/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3227-find-missing-and-repeated-values](https://github.com/GaganSingh2/LeetCodeQus/tree/master/3227-find-missing-and-repeated-values) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/GaganSingh2/LeetCodeQus/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -526,6 +527,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/GaganSingh2/LeetCodeQus/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2833-furthest-point-from-origin](https://github.com/GaganSingh2/LeetCodeQus/tree/master/2833-furthest-point-from-origin) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/GaganSingh2/LeetCodeQus/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
+| [3083-existence-of-a-substring-in-a-string-and-its-reverse](https://github.com/GaganSingh2/LeetCodeQus/tree/master/3083-existence-of-a-substring-in-a-string-and-its-reverse) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/GaganSingh2/LeetCodeQus/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3194-find-words-containing-character](https://github.com/GaganSingh2/LeetCodeQus/tree/master/3194-find-words-containing-character) |
 | [3396-valid-word](https://github.com/GaganSingh2/LeetCodeQus/tree/master/3396-valid-word) |
