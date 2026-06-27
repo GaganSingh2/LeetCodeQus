@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0268-missing-number) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0389-find-the-difference) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0345-reverse-vowels-of-a-string) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0908-middle-of-the-linked-list](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0908-middle-of-the-linked-list) |
 | [1894-merge-strings-alternately](https://github.com/GaganSingh2/LeetCodeQus/tree/master/1894-merge-strings-alternately) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/GaganSingh2/LeetCodeQus/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -179,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0287-find-the-duplicate-number) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0485-max-consecutive-ones) |
@@ -482,6 +485,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0287-find-the-duplicate-number) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0441-arranging-coins) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -588,6 +592,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0268-missing-number) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0414-third-maximum-number) |
 | [0451-sort-characters-by-frequency](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0451-sort-characters-by-frequency) |
