@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0837-most-common-word](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0837-most-common-word) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1189-maximum-number-of-balloons](https://github.com/GaganSingh2/LeetCodeQus/tree/master/1189-maximum-number-of-balloons) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/GaganSingh2/LeetCodeQus/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/GaganSingh2/LeetCodeQus/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/GaganSingh2/LeetCodeQus/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/GaganSingh2/LeetCodeQus/tree/master/1636-sort-array-by-increasing-frequency) |
@@ -530,6 +531,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1108-defanging-an-ip-address](https://github.com/GaganSingh2/LeetCodeQus/tree/master/1108-defanging-an-ip-address) |
 | [1189-maximum-number-of-balloons](https://github.com/GaganSingh2/LeetCodeQus/tree/master/1189-maximum-number-of-balloons) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/GaganSingh2/LeetCodeQus/tree/master/1302-delete-characters-to-make-fancy-string) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/GaganSingh2/LeetCodeQus/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/GaganSingh2/LeetCodeQus/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/GaganSingh2/LeetCodeQus/tree/master/1823-determine-if-string-halves-are-alike) |
 | [1894-merge-strings-alternately](https://github.com/GaganSingh2/LeetCodeQus/tree/master/1894-merge-strings-alternately) |
@@ -560,6 +562,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0219-contains-duplicate-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0594-longest-harmonious-subsequence) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/GaganSingh2/LeetCodeQus/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/GaganSingh2/LeetCodeQus/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2478-longest-nice-subarray](https://github.com/GaganSingh2/LeetCodeQus/tree/master/2478-longest-nice-subarray) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/GaganSingh2/LeetCodeQus/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
