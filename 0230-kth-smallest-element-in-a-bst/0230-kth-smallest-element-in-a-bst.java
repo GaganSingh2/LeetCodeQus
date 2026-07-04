@@ -23,16 +23,38 @@ class Solution {
         path.add(root.val);
         inOrderTraversalAndArrayList(root.right, path);
     }
+
+    //Helper Method of Approach-2
+    public int count = 0;
+    public int ans = -1;
+    public void inOrderTraversal(TreeNode root, int k){
+        if(root == null){
+            return;
+        }
+        inOrderTraversal(root.left, k);
+        count++;
+        if(count == k){
+            ans = root.val;
+            return;
+        }
+        inOrderTraversal(root.right, k);
+    }
     public int kthSmallest(TreeNode root, int k) {
         if(root == null){
             return -1;
         }
         //Approach-1 using InOrder Traversal and ArrayList----------------
-        ArrayList<Integer> path = new ArrayList<>();
-        inOrderTraversalAndArrayList(root, path);
-        if(path.size()<k){
-            return -1;
-        }
-        return path.get(k-1);
+        // ArrayList<Integer> path = new ArrayList<>();
+        // inOrderTraversalAndArrayList(root, path);
+        // if(path.size()<k){
+        //     return -1;
+        // }
+        // return path.get(k-1);
+
+        //Approach-2 using InOrder Traversal--------------------
+        count = 0;
+        ans = -1;
+        inOrderTraversal(root, k);
+        return ans;
     }
 }
