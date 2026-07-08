@@ -1,15 +1,17 @@
 class Solution {
     public long sumAndMultiply(int n) {
-        long nonZero = 0, sum=0, mul=1;
+        long nonZeroDigit = 0, mul = 1;
+        long totalSum = 0;
         while(n>0){
             int digit = n % 10;
-            sum += digit;
+            totalSum += digit;
             if(digit != 0){
-                nonZero = nonZero + digit * mul;
+                nonZeroDigit =  nonZeroDigit + digit * mul;
                 mul *= 10;
             }
             n /= 10;
         }
-        return nonZero * sum;
+
+        return nonZeroDigit * totalSum;
     }
 }
