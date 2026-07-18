@@ -230,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/GaganSingh2/LeetCodeQus/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/GaganSingh2/LeetCodeQus/tree/master/1950-sign-of-the-product-of-an-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/GaganSingh2/LeetCodeQus/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/GaganSingh2/LeetCodeQus/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/GaganSingh2/LeetCodeQus/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2020-remove-one-element-to-make-the-array-strictly-increasing](https://github.com/GaganSingh2/LeetCodeQus/tree/master/2020-remove-one-element-to-make-the-array-strictly-increasing) |
 | [2048-build-array-from-permutation](https://github.com/GaganSingh2/LeetCodeQus/tree/master/2048-build-array-from-permutation) |
@@ -393,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1840-maximum-building-height](https://github.com/GaganSingh2/LeetCodeQus/tree/master/1840-maximum-building-height) |
 | [1925-count-square-sum-triples](https://github.com/GaganSingh2/LeetCodeQus/tree/master/1925-count-square-sum-triples) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/GaganSingh2/LeetCodeQus/tree/master/1950-sign-of-the-product-of-an-array) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/GaganSingh2/LeetCodeQus/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/GaganSingh2/LeetCodeQus/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2169-count-operations-to-obtain-zero](https://github.com/GaganSingh2/LeetCodeQus/tree/master/2169-count-operations-to-obtain-zero) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/GaganSingh2/LeetCodeQus/tree/master/2432-number-of-zero-filled-subarrays) |
@@ -482,6 +484,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0258-add-digits) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/GaganSingh2/LeetCodeQus/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/GaganSingh2/LeetCodeQus/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2610-closest-prime-numbers-in-range](https://github.com/GaganSingh2/LeetCodeQus/tree/master/2610-closest-prime-numbers-in-range) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/GaganSingh2/LeetCodeQus/tree/master/3658-gcd-of-odd-and-even-sums) |
