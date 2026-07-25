@@ -16,12 +16,8 @@ class Solution {
             n /= 10;
 
         }
-        if(secMax == -2147483648){
-            maxProduct = firstMax * firstMax;
-        }
-        else{
-            maxProduct = firstMax * secMax;
-        }
+        maxProduct = firstMax * secMax;
+        
         
         return maxProduct;
     }
