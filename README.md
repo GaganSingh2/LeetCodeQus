@@ -197,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0485-max-consecutive-ones) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0594-longest-harmonious-subsequence](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0594-longest-harmonious-subsequence) |
+| [0628-maximum-product-of-three-numbers](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0628-maximum-product-of-three-numbers) |
 | [0682-baseball-game](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0682-baseball-game) |
 | [0706-design-hashmap](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0706-design-hashmap) |
 | [0739-daily-temperatures](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0739-daily-temperatures) |
@@ -388,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0441-arranging-coins) |
 | [0507-perfect-number](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0507-perfect-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0628-maximum-product-of-three-numbers) |
 | [1013-fibonacci-number](https://github.com/GaganSingh2/LeetCodeQus/tree/master/1013-fibonacci-number) |
 | [1230-maximum-of-absolute-value-expression](https://github.com/GaganSingh2/LeetCodeQus/tree/master/1230-maximum-of-absolute-value-expression) |
 | [1266-minimum-time-visiting-all-points](https://github.com/GaganSingh2/LeetCodeQus/tree/master/1266-minimum-time-visiting-all-points) |
@@ -639,6 +641,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0451-sort-characters-by-frequency) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0594-longest-harmonious-subsequence](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0594-longest-harmonious-subsequence) |
+| [0628-maximum-product-of-three-numbers](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0628-maximum-product-of-three-numbers) |
 | [1200-minimum-absolute-difference](https://github.com/GaganSingh2/LeetCodeQus/tree/master/1200-minimum-absolute-difference) |
 | [1331-rank-transform-of-an-array](https://github.com/GaganSingh2/LeetCodeQus/tree/master/1331-rank-transform-of-an-array) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/GaganSingh2/LeetCodeQus/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
