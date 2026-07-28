@@ -28,12 +28,15 @@ class Solution {
         StringBuilder res = new StringBuilder(sb);
 
         //then reverse the temp stringbuilder to build second half of the string (bcz in palindrome second half of string is just opposite of the first half of the string)
-        sb = sb.reverse();
+        // sb = sb.reverse();
         
         //if the length is odd type so add middle character of given string into result stringbuilder before the second half string is going to store into the result stringbuilder
         if(s.length() % 2!=0){
             res.append(s.charAt(s.length()/2));
         }
-        return res.append(sb).toString();
+        for(int i=sb.length()-1; i>=0; i--){
+            res.append(sb.charAt(i));
+        }
+        return res.toString();
     }
 }
