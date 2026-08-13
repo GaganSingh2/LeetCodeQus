@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0389-find-the-difference) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0451-sort-characters-by-frequency) |
+| [0496-next-greater-element-i](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0496-next-greater-element-i) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0594-longest-harmonious-subsequence](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0594-longest-harmonious-subsequence) |
 | [0706-design-hashmap](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0706-design-hashmap) |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0485-max-consecutive-ones) |
+| [0496-next-greater-element-i](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0496-next-greater-element-i) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0594-longest-harmonious-subsequence](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0594-longest-harmonious-subsequence) |
 | [0628-maximum-product-of-three-numbers](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0628-maximum-product-of-three-numbers) |
@@ -334,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0316-remove-duplicate-letters](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0316-remove-duplicate-letters) |
 | [0394-decode-string](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0402-remove-k-digits) |
+| [0496-next-greater-element-i](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0739-daily-temperatures) |
 | [0897-increasing-order-search-tree](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0897-increasing-order-search-tree) |
@@ -347,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0084-largest-rectangle-in-histogram) |
 | [0316-remove-duplicate-letters](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0316-remove-duplicate-letters) |
 | [0402-remove-k-digits](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0402-remove-k-digits) |
+| [0496-next-greater-element-i](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0739-daily-temperatures) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/GaganSingh2/LeetCodeQus/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Simulation
