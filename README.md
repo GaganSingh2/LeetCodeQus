@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/GaganSingh2/LeetCodeQus/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/GaganSingh2/LeetCodeQus/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3083-existence-of-a-substring-in-a-string-and-its-reverse](https://github.com/GaganSingh2/LeetCodeQus/tree/master/3083-existence-of-a-substring-in-a-string-and-its-reverse) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/GaganSingh2/LeetCodeQus/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/GaganSingh2/LeetCodeQus/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3227-find-missing-and-repeated-values](https://github.com/GaganSingh2/LeetCodeQus/tree/master/3227-find-missing-and-repeated-values) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/GaganSingh2/LeetCodeQus/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -604,6 +605,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/GaganSingh2/LeetCodeQus/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/GaganSingh2/LeetCodeQus/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3083-existence-of-a-substring-in-a-string-and-its-reverse](https://github.com/GaganSingh2/LeetCodeQus/tree/master/3083-existence-of-a-substring-in-a-string-and-its-reverse) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/GaganSingh2/LeetCodeQus/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/GaganSingh2/LeetCodeQus/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3194-find-words-containing-character](https://github.com/GaganSingh2/LeetCodeQus/tree/master/3194-find-words-containing-character) |
 | [3396-valid-word](https://github.com/GaganSingh2/LeetCodeQus/tree/master/3396-valid-word) |
@@ -625,6 +627,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/GaganSingh2/LeetCodeQus/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2478-longest-nice-subarray](https://github.com/GaganSingh2/LeetCodeQus/tree/master/2478-longest-nice-subarray) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/GaganSingh2/LeetCodeQus/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/GaganSingh2/LeetCodeQus/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/GaganSingh2/LeetCodeQus/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Counting
 |  |
