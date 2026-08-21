@@ -360,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0258-add-digits) |
 | [0657-robot-return-to-origin](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0682-baseball-game) |
@@ -398,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0067-add-binary) |
 | [0189-rotate-array](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0231-power-of-two) |
@@ -567,6 +569,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0071-simplify-path) |
 | [0125-valid-palindrome](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0125-valid-palindrome) |
 | [0165-compare-version-numbers](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0165-compare-version-numbers) |
@@ -702,6 +705,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0029-divide-two-integers) |
+| [0067-add-binary](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0190-reverse-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0222-count-complete-tree-nodes) |
