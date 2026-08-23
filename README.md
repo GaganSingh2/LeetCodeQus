@@ -426,6 +426,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1817-calculate-money-in-leetcode-bank](https://github.com/GaganSingh2/LeetCodeQus/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [1840-maximum-building-height](https://github.com/GaganSingh2/LeetCodeQus/tree/master/1840-maximum-building-height) |
 | [1925-count-square-sum-triples](https://github.com/GaganSingh2/LeetCodeQus/tree/master/1925-count-square-sum-triples) |
+| [1927-sum-game](https://github.com/GaganSingh2/LeetCodeQus/tree/master/1927-sum-game) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/GaganSingh2/LeetCodeQus/tree/master/1950-sign-of-the-product-of-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/GaganSingh2/LeetCodeQus/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/GaganSingh2/LeetCodeQus/tree/master/2106-find-greatest-common-divisor-of-array) |
@@ -600,6 +601,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1796-second-largest-digit-in-a-string](https://github.com/GaganSingh2/LeetCodeQus/tree/master/1796-second-largest-digit-in-a-string) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/GaganSingh2/LeetCodeQus/tree/master/1823-determine-if-string-halves-are-alike) |
 | [1894-merge-strings-alternately](https://github.com/GaganSingh2/LeetCodeQus/tree/master/1894-merge-strings-alternately) |
+| [1927-sum-game](https://github.com/GaganSingh2/LeetCodeQus/tree/master/1927-sum-game) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/GaganSingh2/LeetCodeQus/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/GaganSingh2/LeetCodeQus/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/GaganSingh2/LeetCodeQus/tree/master/2260-divide-a-string-into-groups-of-size-k) |
@@ -759,6 +761,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1448-maximum-69-number](https://github.com/GaganSingh2/LeetCodeQus/tree/master/1448-maximum-69-number) |
 | [1833-maximum-ice-cream-bars](https://github.com/GaganSingh2/LeetCodeQus/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/GaganSingh2/LeetCodeQus/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [1927-sum-game](https://github.com/GaganSingh2/LeetCodeQus/tree/master/1927-sum-game) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/GaganSingh2/LeetCodeQus/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/GaganSingh2/LeetCodeQus/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2199-two-furthest-houses-with-different-colors](https://github.com/GaganSingh2/LeetCodeQus/tree/master/2199-two-furthest-houses-with-different-colors) |
@@ -1005,4 +1008,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0128-longest-consecutive-sequence) |
+## Game Theory
+|  |
+| ------- |
+| [1927-sum-game](https://github.com/GaganSingh2/LeetCodeQus/tree/master/1927-sum-game) |
 <!---LeetCode Topics End-->
