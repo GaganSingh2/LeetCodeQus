@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/GaganSingh2/LeetCodeQus/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/GaganSingh2/LeetCodeQus/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/GaganSingh2/LeetCodeQus/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/GaganSingh2/LeetCodeQus/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/GaganSingh2/LeetCodeQus/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/GaganSingh2/LeetCodeQus/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/GaganSingh2/LeetCodeQus/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -309,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/GaganSingh2/LeetCodeQus/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/GaganSingh2/LeetCodeQus/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3689-maximum-total-subarray-value-i](https://github.com/GaganSingh2/LeetCodeQus/tree/master/3689-maximum-total-subarray-value-i) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/GaganSingh2/LeetCodeQus/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/GaganSingh2/LeetCodeQus/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/GaganSingh2/LeetCodeQus/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/GaganSingh2/LeetCodeQus/tree/master/3739-count-subarrays-with-majority-element-ii) |
