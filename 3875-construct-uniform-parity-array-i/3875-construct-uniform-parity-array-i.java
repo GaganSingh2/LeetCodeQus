@@ -11,6 +11,9 @@ class Solution {
             else{
                 cntOdd++;
             }
+
+            if(cntOdd >= 2) return true;
+            if(cntOdd >= 1 && cntEven >= 1) return true;
         }
         // If all elements are even → already valid
         // If there are at least 2 odd elements → can form all even (odd - odd)
@@ -19,8 +22,6 @@ class Solution {
         if(cntEven==nums1.length){
             return true;
         }
-        else if(cntOdd >= 2) return true;
-        else if(cntOdd >= 1 && cntEven >= 1) return true;
         return false;
     }
 }
