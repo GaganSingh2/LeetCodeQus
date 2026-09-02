@@ -1,5 +1,4 @@
 class Solution {
-    
     public boolean uniformArray(int[] nums1) {
         int cntEven = 0, cntOdd = 0;
         if(nums1.length==1){
@@ -13,6 +12,7 @@ class Solution {
                 cntOdd++;
             }
         }
+        // If all elements are even → already valid
         // If there are at least 2 odd elements → can form all even (odd - odd)
         // If there is at least 1 odd and 1 even → can form all odd (even - odd)
 
