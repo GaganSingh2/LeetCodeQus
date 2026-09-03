@@ -1,12 +1,12 @@
 class Solution {
     public boolean uniformArray(int[] nums1) {
-        if(nums1.length==1) return true;
+        if(nums1.length == 1) return true;
 
         int minVal = Integer.MAX_VALUE;
         int cntOdd = 0;
-        for(int i=0; i<nums1.length; i++){
-            minVal = Math.min(minVal,nums1[i]);
-            if(nums1[i] % 2 != 0){
+        for(int val: nums1){
+            minVal = Math.min(minVal, val);
+            if(val % 2 != 0){
                 cntOdd++;
             }
         }
@@ -14,10 +14,10 @@ class Solution {
         if(minVal % 2 != 0){
             return true;
         }
-        else if(cntOdd>0){
+        else if(cntOdd > 0){
             return false;
         }
-        
+
         return true;
     }
 
