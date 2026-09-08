@@ -4,15 +4,16 @@ class Solution {
             return 0;
         }
 
-        int totalComma = 0, start = 1000, commas = 1;
-        while(start<=n){
-            int end = start * 1000 -1;
-            int count = Math.min(n,end)-start +1;
-            totalComma += count * commas;
+        int totalCommas = 0, start = 1000, commas = 1;
+        while(start <= n){
+            int end = start * 1000 - 1;
+            int count = Math.min(n, end) - start + 1;
+            totalCommas += count * commas;
             start *= 1000;
-            commas++; 
+            commas++;
         }
-        return totalComma;
+
+        return totalCommas;
     }
 }
 
