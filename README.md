@@ -419,6 +419,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0441-arranging-coins](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0441-arranging-coins) |
 | [0507-perfect-number](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0507-perfect-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0628-maximum-product-of-three-numbers) |
+| [0836-rectangle-overlap](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0836-rectangle-overlap) |
 | [1013-fibonacci-number](https://github.com/GaganSingh2/LeetCodeQus/tree/master/1013-fibonacci-number) |
 | [1230-maximum-of-absolute-value-expression](https://github.com/GaganSingh2/LeetCodeQus/tree/master/1230-maximum-of-absolute-value-expression) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/GaganSingh2/LeetCodeQus/tree/master/1232-check-if-it-is-a-straight-line) |
@@ -823,6 +824,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Geometry
 |  |
 | ------- |
+| [0836-rectangle-overlap](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0836-rectangle-overlap) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/GaganSingh2/LeetCodeQus/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1266-minimum-time-visiting-all-points](https://github.com/GaganSingh2/LeetCodeQus/tree/master/1266-minimum-time-visiting-all-points) |
 ## Heap (Priority Queue)
