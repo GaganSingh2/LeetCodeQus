@@ -14,41 +14,63 @@
  * }
  */
 class Solution {
+    //Approach- 2nd using Tree & DFS------------- TC: O(n)
     int totalNodesCount = 0;
-    private int countNodes(TreeNode root){
+    private int[] trav(TreeNode root){
         if(root == null){
-            return 0;
+            return new int[]{0,0};
         }
-        int leftCnt = countNodes(root.left);
-        int rightCnt = countNodes(root.right);
+        int left[] = trav(root.left);
+        int right[] = trav(root.right);
 
-        return leftCnt + rightCnt + 1;
-    }
-    public int sumOfNode(TreeNode root){
-        if(root == null){
-            return 0;
-        }
-        int leftSum = sumOfNode(root.left);
-        int rightSum = sumOfNode(root.right);
+        int subTreeSum = left[0] + right[0] + root.val;
+        int subTreeCount = left[1] + right[1] + 1;
 
-        return leftSum + rightSum + root.val;
-    }
-    public int averageOfSubtree(TreeNode root) {
-        if(root == null){
-            return 0;
-        }
-        // if(root.left == null && root.right == null){
-        //     return 1;
-        // }
-
-        int cntNode = countNodes(root);
-        int sum = sumOfNode(root);
-        if(sum / cntNode == root.val){
+        if(subTreeSum / subTreeCount == root.val) {
             totalNodesCount++;
         }
-        averageOfSubtree(root.left);
-        averageOfSubtree(root.right);
 
+        return new int[]{subTreeSum, subTreeCount};
+    }
+    public int averageOfSubtree(TreeNode root){
+        trav(root);
         return totalNodesCount;
     }
+
+    //Approach-1st using Tree & Recursion-------- TC: O(n^2)
+
+    // int totalNodesCount = 0;
+    // private int countNodes(TreeNode root){
+    //     if(root == null){
+    //         return 0;
+    //     }
+    //     int leftCnt = countNodes(root.left);
+    //     int rightCnt = countNodes(root.right);
+
+    //     return leftCnt + rightCnt + 1;
+    // }
+    // private int sumOfNode(TreeNode root){
+    //     if(root == null){
+    //         return 0;
+    //     }
+    //     int leftSum = sumOfNode(root.left);
+    //     int rightSum = sumOfNode(root.right);
+
+    //     return leftSum + rightSum + root.val;
+    // }
+    // public int averageOfSubtree(TreeNode root) {
+    //     if(root == null){
+    //         return 0;
+    //     }
+
+    //     int cntNode = countNodes(root);
+    //     int sum = sumOfNode(root);
+    //     if(sum / cntNode == root.val){
+    //         totalNodesCount++;
+    //     }
+    //     averageOfSubtree(root.left);
+    //     averageOfSubtree(root.right);
+
+    //     return totalNodesCount;
+    // }
 }
