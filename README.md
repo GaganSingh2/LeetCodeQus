@@ -328,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3904-smallest-stable-index-ii](https://github.com/GaganSingh2/LeetCodeQus/tree/master/3904-smallest-stable-index-ii) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/GaganSingh2/LeetCodeQus/tree/master/3914-check-if-any-element-has-prime-frequency) |
 | [4039-compute-decimal-representation](https://github.com/GaganSingh2/LeetCodeQus/tree/master/4039-compute-decimal-representation) |
+| [4052-cyclically-shift-rows-and-columns](https://github.com/GaganSingh2/LeetCodeQus/tree/master/4052-cyclically-shift-rows-and-columns) |
 | [4115-minimum-distance-between-three-equal-elements-i](https://github.com/GaganSingh2/LeetCodeQus/tree/master/4115-minimum-distance-between-three-equal-elements-i) |
 | [4116-minimum-moves-to-equal-array-elements-iii](https://github.com/GaganSingh2/LeetCodeQus/tree/master/4116-minimum-moves-to-equal-array-elements-iii) |
 ## Stack
@@ -397,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/GaganSingh2/LeetCodeQus/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3838-weighted-word-mapping](https://github.com/GaganSingh2/LeetCodeQus/tree/master/3838-weighted-word-mapping) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/GaganSingh2/LeetCodeQus/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [4052-cyclically-shift-rows-and-columns](https://github.com/GaganSingh2/LeetCodeQus/tree/master/4052-cyclically-shift-rows-and-columns) |
 ## Math
 |  |
 | ------- |
@@ -488,6 +490,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2319-check-if-matrix-is-x-matrix](https://github.com/GaganSingh2/LeetCodeQus/tree/master/2319-check-if-matrix-is-x-matrix) |
 | [3227-find-missing-and-repeated-values](https://github.com/GaganSingh2/LeetCodeQus/tree/master/3227-find-missing-and-repeated-values) |
 | [3643-flip-square-submatrix-vertically](https://github.com/GaganSingh2/LeetCodeQus/tree/master/3643-flip-square-submatrix-vertically) |
+| [4052-cyclically-shift-rows-and-columns](https://github.com/GaganSingh2/LeetCodeQus/tree/master/4052-cyclically-shift-rows-and-columns) |
 ## Design
 |  |
 | ------- |
