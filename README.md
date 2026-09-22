@@ -329,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/GaganSingh2/LeetCodeQus/tree/master/3914-check-if-any-element-has-prime-frequency) |
 | [4039-compute-decimal-representation](https://github.com/GaganSingh2/LeetCodeQus/tree/master/4039-compute-decimal-representation) |
 | [4052-cyclically-shift-rows-and-columns](https://github.com/GaganSingh2/LeetCodeQus/tree/master/4052-cyclically-shift-rows-and-columns) |
+| [4054-count-shadow-pairs-i](https://github.com/GaganSingh2/LeetCodeQus/tree/master/4054-count-shadow-pairs-i) |
 | [4115-minimum-distance-between-three-equal-elements-i](https://github.com/GaganSingh2/LeetCodeQus/tree/master/4115-minimum-distance-between-three-equal-elements-i) |
 | [4116-minimum-moves-to-equal-array-elements-iii](https://github.com/GaganSingh2/LeetCodeQus/tree/master/4116-minimum-moves-to-equal-array-elements-iii) |
 ## Stack
@@ -357,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/GaganSingh2/LeetCodeQus/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/GaganSingh2/LeetCodeQus/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2470-removing-stars-from-a-string](https://github.com/GaganSingh2/LeetCodeQus/tree/master/2470-removing-stars-from-a-string) |
+| [4054-count-shadow-pairs-i](https://github.com/GaganSingh2/LeetCodeQus/tree/master/4054-count-shadow-pairs-i) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -367,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0739-daily-temperatures) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/GaganSingh2/LeetCodeQus/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [4054-count-shadow-pairs-i](https://github.com/GaganSingh2/LeetCodeQus/tree/master/4054-count-shadow-pairs-i) |
 ## Simulation
 |  |
 | ------- |
