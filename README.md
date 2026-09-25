@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0345-reverse-vowels-of-a-string) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0844-backspace-string-compare](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0844-backspace-string-compare) |
 | [0908-middle-of-the-linked-list](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0908-middle-of-the-linked-list) |
 | [1894-merge-strings-alternately](https://github.com/GaganSingh2/LeetCodeQus/tree/master/1894-merge-strings-alternately) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/GaganSingh2/LeetCodeQus/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -355,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0739-daily-temperatures) |
+| [0844-backspace-string-compare](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0844-backspace-string-compare) |
 | [0897-increasing-order-search-tree](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0897-increasing-order-search-tree) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/GaganSingh2/LeetCodeQus/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/GaganSingh2/LeetCodeQus/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -378,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0258-add-digits) |
 | [0657-robot-return-to-origin](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0682-baseball-game) |
+| [0844-backspace-string-compare](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0844-backspace-string-compare) |
 | [0867-transpose-matrix](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0867-transpose-matrix) |
 | [1260-shift-2d-grid](https://github.com/GaganSingh2/LeetCodeQus/tree/master/1260-shift-2d-grid) |
 | [1642-water-bottles](https://github.com/GaganSingh2/LeetCodeQus/tree/master/1642-water-bottles) |
@@ -617,6 +620,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0796-rotate-string](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0796-rotate-string) |
 | [0822-unique-morse-code-words](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0822-unique-morse-code-words) |
 | [0837-most-common-word](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0837-most-common-word) |
+| [0844-backspace-string-compare](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0844-backspace-string-compare) |
 | [0944-delete-columns-to-make-sorted](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0944-delete-columns-to-make-sorted) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/GaganSingh2/LeetCodeQus/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1108-defanging-an-ip-address](https://github.com/GaganSingh2/LeetCodeQus/tree/master/1108-defanging-an-ip-address) |
