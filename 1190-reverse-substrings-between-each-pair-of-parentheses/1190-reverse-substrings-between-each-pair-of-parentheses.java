@@ -12,9 +12,6 @@ class Solution {
                     sb.append(stk.pop());
                 }
                 stk.pop();
-                // if(i == s.length()-1){
-                //     return sb.toString();
-                // }
                 int j = 0;
                 while(j<sb.length()){
                     stk.push(sb.charAt(j));
