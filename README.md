@@ -360,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0897-increasing-order-search-tree](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0897-increasing-order-search-tree) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/GaganSingh2/LeetCodeQus/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/GaganSingh2/LeetCodeQus/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/GaganSingh2/LeetCodeQus/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/GaganSingh2/LeetCodeQus/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2470-removing-stars-from-a-string](https://github.com/GaganSingh2/LeetCodeQus/tree/master/2470-removing-stars-from-a-string) |
 | [4054-count-shadow-pairs-i](https://github.com/GaganSingh2/LeetCodeQus/tree/master/4054-count-shadow-pairs-i) |
@@ -630,6 +631,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1302-delete-characters-to-make-fancy-string](https://github.com/GaganSingh2/LeetCodeQus/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/GaganSingh2/LeetCodeQus/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/GaganSingh2/LeetCodeQus/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/GaganSingh2/LeetCodeQus/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1796-second-largest-digit-in-a-string](https://github.com/GaganSingh2/LeetCodeQus/tree/master/1796-second-largest-digit-in-a-string) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/GaganSingh2/LeetCodeQus/tree/master/1823-determine-if-string-halves-are-alike) |
 | [1894-merge-strings-alternately](https://github.com/GaganSingh2/LeetCodeQus/tree/master/1894-merge-strings-alternately) |
@@ -1062,4 +1064,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/GaganSingh2/LeetCodeQus/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/GaganSingh2/LeetCodeQus/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
