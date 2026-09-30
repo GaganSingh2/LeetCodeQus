@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3803-count-residue-prefixes](https://github.com/GaganSingh2/LeetCodeQus/tree/master/3803-count-residue-prefixes) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/GaganSingh2/LeetCodeQus/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/GaganSingh2/LeetCodeQus/tree/master/3914-check-if-any-element-has-prime-frequency) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/GaganSingh2/LeetCodeQus/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 | [4115-minimum-distance-between-three-equal-elements-i](https://github.com/GaganSingh2/LeetCodeQus/tree/master/4115-minimum-distance-between-three-equal-elements-i) |
 ## Linked List
 |  |
@@ -332,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [4039-compute-decimal-representation](https://github.com/GaganSingh2/LeetCodeQus/tree/master/4039-compute-decimal-representation) |
 | [4052-cyclically-shift-rows-and-columns](https://github.com/GaganSingh2/LeetCodeQus/tree/master/4052-cyclically-shift-rows-and-columns) |
 | [4054-count-shadow-pairs-i](https://github.com/GaganSingh2/LeetCodeQus/tree/master/4054-count-shadow-pairs-i) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/GaganSingh2/LeetCodeQus/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 | [4115-minimum-distance-between-three-equal-elements-i](https://github.com/GaganSingh2/LeetCodeQus/tree/master/4115-minimum-distance-between-three-equal-elements-i) |
 | [4116-minimum-moves-to-equal-array-elements-iii](https://github.com/GaganSingh2/LeetCodeQus/tree/master/4116-minimum-moves-to-equal-array-elements-iii) |
 ## Stack
@@ -409,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3838-weighted-word-mapping](https://github.com/GaganSingh2/LeetCodeQus/tree/master/3838-weighted-word-mapping) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/GaganSingh2/LeetCodeQus/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [4052-cyclically-shift-rows-and-columns](https://github.com/GaganSingh2/LeetCodeQus/tree/master/4052-cyclically-shift-rows-and-columns) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/GaganSingh2/LeetCodeQus/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Math
 |  |
 | ------- |
@@ -697,6 +700,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3737-count-subarrays-with-majority-element-i](https://github.com/GaganSingh2/LeetCodeQus/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/GaganSingh2/LeetCodeQus/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/GaganSingh2/LeetCodeQus/tree/master/3914-check-if-any-element-has-prime-frequency) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/GaganSingh2/LeetCodeQus/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Sorting
 |  |
 | ------- |
@@ -742,6 +746,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/GaganSingh2/LeetCodeQus/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3731-find-missing-elements](https://github.com/GaganSingh2/LeetCodeQus/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/GaganSingh2/LeetCodeQus/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/GaganSingh2/LeetCodeQus/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -855,6 +860,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0451-sort-characters-by-frequency) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/GaganSingh2/LeetCodeQus/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/GaganSingh2/LeetCodeQus/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/GaganSingh2/LeetCodeQus/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -863,6 +869,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/GaganSingh2/LeetCodeQus/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/GaganSingh2/LeetCodeQus/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Hash Function
 |  |
 | ------- |
