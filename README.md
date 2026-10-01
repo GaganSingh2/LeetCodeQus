@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0148-sort-list) |
+| [0151-reverse-words-in-a-string](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0160-intersection-of-two-linked-lists) |
 | [0165-compare-version-numbers](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0165-compare-version-numbers) |
 | [0189-rotate-array](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0189-rotate-array) |
@@ -608,6 +609,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0071-simplify-path) |
 | [0125-valid-palindrome](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0125-valid-palindrome) |
+| [0151-reverse-words-in-a-string](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0165-compare-version-numbers) |
 | [0205-isomorphic-strings](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0242-valid-anagram) |
