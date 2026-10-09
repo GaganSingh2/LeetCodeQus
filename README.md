@@ -366,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1021-remove-outermost-parentheses](https://github.com/GaganSingh2/LeetCodeQus/tree/master/1021-remove-outermost-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/GaganSingh2/LeetCodeQus/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/GaganSingh2/LeetCodeQus/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/GaganSingh2/LeetCodeQus/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/GaganSingh2/LeetCodeQus/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/GaganSingh2/LeetCodeQus/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2470-removing-stars-from-a-string](https://github.com/GaganSingh2/LeetCodeQus/tree/master/2470-removing-stars-from-a-string) |
@@ -643,6 +644,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1302-delete-characters-to-make-fancy-string](https://github.com/GaganSingh2/LeetCodeQus/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/GaganSingh2/LeetCodeQus/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/GaganSingh2/LeetCodeQus/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/GaganSingh2/LeetCodeQus/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/GaganSingh2/LeetCodeQus/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1796-second-largest-digit-in-a-string](https://github.com/GaganSingh2/LeetCodeQus/tree/master/1796-second-largest-digit-in-a-string) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/GaganSingh2/LeetCodeQus/tree/master/1823-determine-if-string-halves-are-alike) |
@@ -812,6 +814,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0402-remove-k-digits) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/GaganSingh2/LeetCodeQus/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1448-maximum-69-number](https://github.com/GaganSingh2/LeetCodeQus/tree/master/1448-maximum-69-number) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/GaganSingh2/LeetCodeQus/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1833-maximum-ice-cream-bars](https://github.com/GaganSingh2/LeetCodeQus/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/GaganSingh2/LeetCodeQus/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1927-sum-game](https://github.com/GaganSingh2/LeetCodeQus/tree/master/1927-sum-game) |
@@ -1084,5 +1087,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0856-score-of-parentheses](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0856-score-of-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/GaganSingh2/LeetCodeQus/tree/master/1021-remove-outermost-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/GaganSingh2/LeetCodeQus/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/GaganSingh2/LeetCodeQus/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/GaganSingh2/LeetCodeQus/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
