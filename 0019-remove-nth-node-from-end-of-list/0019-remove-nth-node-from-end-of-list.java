@@ -16,7 +16,7 @@ class Solution {
             temp = temp.next;
             size++;
          }
-        if(size==n){
+        if(size == n){    //when the nth node will be head 
             return head.next;
         }
         int len = size - n;
