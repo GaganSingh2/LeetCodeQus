@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2418-sort-the-people](https://github.com/GaganSingh2/LeetCodeQus/tree/master/2418-sort-the-people) |
 | [2540-minimum-common-value](https://github.com/GaganSingh2/LeetCodeQus/tree/master/2540-minimum-common-value) |
 | [2784-check-if-array-is-good](https://github.com/GaganSingh2/LeetCodeQus/tree/master/2784-check-if-array-is-good) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/GaganSingh2/LeetCodeQus/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/GaganSingh2/LeetCodeQus/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/GaganSingh2/LeetCodeQus/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/GaganSingh2/LeetCodeQus/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -288,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2778-sum-of-squares-of-special-elements](https://github.com/GaganSingh2/LeetCodeQus/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2784-check-if-array-is-good](https://github.com/GaganSingh2/LeetCodeQus/tree/master/2784-check-if-array-is-good) |
 | [2903-find-indices-with-index-and-value-difference-i](https://github.com/GaganSingh2/LeetCodeQus/tree/master/2903-find-indices-with-index-and-value-difference-i) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/GaganSingh2/LeetCodeQus/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/GaganSingh2/LeetCodeQus/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/GaganSingh2/LeetCodeQus/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/GaganSingh2/LeetCodeQus/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -1072,6 +1074,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Segment Tree
 |  |
 | ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/GaganSingh2/LeetCodeQus/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/GaganSingh2/LeetCodeQus/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/GaganSingh2/LeetCodeQus/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Union-Find
@@ -1093,4 +1096,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/GaganSingh2/LeetCodeQus/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/GaganSingh2/LeetCodeQus/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/GaganSingh2/LeetCodeQus/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/GaganSingh2/LeetCodeQus/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 <!---LeetCode Topics End-->
