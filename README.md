@@ -208,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0485-max-consecutive-ones](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0496-next-greater-element-i) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0532-k-diff-pairs-in-an-array) |
@@ -443,6 +444,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0343-integer-break](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0343-integer-break) |
 | [0367-valid-perfect-square](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0441-arranging-coins) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0507-perfect-number](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0507-perfect-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0628-maximum-product-of-three-numbers) |
 | [0836-rectangle-overlap](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0836-rectangle-overlap) |
