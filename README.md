@@ -695,6 +695,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3803-count-residue-prefixes](https://github.com/GaganSingh2/LeetCodeQus/tree/master/3803-count-residue-prefixes) |
 | [3838-weighted-word-mapping](https://github.com/GaganSingh2/LeetCodeQus/tree/master/3838-weighted-word-mapping) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/GaganSingh2/LeetCodeQus/tree/master/3872-find-most-frequent-vowel-and-consonant) |
+| [4106-find-mismatched-segments-between-two-strings](https://github.com/GaganSingh2/LeetCodeQus/tree/master/4106-find-mismatched-segments-between-two-strings) |
 ## Sliding Window
 |  |
 | ------- |
