@@ -407,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/GaganSingh2/LeetCodeQus/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/GaganSingh2/LeetCodeQus/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2169-count-operations-to-obtain-zero](https://github.com/GaganSingh2/LeetCodeQus/tree/master/2169-count-operations-to-obtain-zero) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/GaganSingh2/LeetCodeQus/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/GaganSingh2/LeetCodeQus/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/GaganSingh2/LeetCodeQus/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/GaganSingh2/LeetCodeQus/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -670,6 +671,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1927-sum-game](https://github.com/GaganSingh2/LeetCodeQus/tree/master/1927-sum-game) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/GaganSingh2/LeetCodeQus/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/GaganSingh2/LeetCodeQus/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/GaganSingh2/LeetCodeQus/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/GaganSingh2/LeetCodeQus/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/GaganSingh2/LeetCodeQus/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/GaganSingh2/LeetCodeQus/tree/master/2346-largest-3-same-digit-number-in-string) |
