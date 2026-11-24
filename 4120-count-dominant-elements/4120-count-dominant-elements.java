@@ -4,22 +4,22 @@ class Solution {
             return 1;
         }
        
-        int cntOfDominantEle = 0;
+        int count = 0;
         for(int i=1; i<=nums.length-2; i++){
             int currSum = (nums[i-1] + nums[i+1]);
             double avg = currSum / 2.0;
-            System.out.println(avg);
+            // System.out.println(avg);
             if(nums[i] >= avg){
-                cntOfDominantEle++;
+                count++;
             }
         }
         
         if(nums[0] >= nums[1]){
-            cntOfDominantEle++;
+            count++;
         }
         if(nums[nums.length-1] >= nums[nums.length-2]){
-            cntOfDominantEle++;
+            count++;
         }
-        return cntOfDominantEle;
+        return count;
     }
 }
