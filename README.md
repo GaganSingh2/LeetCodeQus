@@ -201,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0189-rotate-array) |
+| [0209-minimum-size-subarray-sum](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0268-missing-number) |
@@ -600,6 +601,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0162-find-peak-element) |
+| [0209-minimum-size-subarray-sum](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0209-minimum-size-subarray-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0287-find-the-duplicate-number) |
@@ -704,6 +706,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0209-minimum-size-subarray-sum](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0219-contains-duplicate-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0594-longest-harmonious-subsequence) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/GaganSingh2/LeetCodeQus/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -821,6 +824,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/GaganSingh2/LeetCodeQus/tree/master/0209-minimum-size-subarray-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/GaganSingh2/LeetCodeQus/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/GaganSingh2/LeetCodeQus/tree/master/1732-find-the-highest-altitude) |
 | [2574-left-and-right-sum-differences](https://github.com/GaganSingh2/LeetCodeQus/tree/master/2574-left-and-right-sum-differences) |
